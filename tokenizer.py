@@ -1,18 +1,22 @@
 #torch is used a lot
 #need this
 import torch
+
+#for reproducability
+torch.manual_seed(0)
+
 #opens file of text
 file = open('text.txt', 'r')
 #gets string
 text = file.read()
 
-#gets total number of characters in text
-vocab_size = len(text)
 #makes a sorted list of each char used
 #set removes all duplicates
 #list makes it to a list that is interable
 #sorted sorts the list
 chars = sorted(list(set(text)))
+#gets number of unique chars in the text
+vocab_size = len(chars)
 
 #makes a dictionary where the number of the character is the key
 #and the character is the value
@@ -56,5 +60,4 @@ def get_batch(type):
     return inputs, targets
 
 x, y = get_batch('training')
-print(data)
 

@@ -6,7 +6,7 @@ file = open('names.txt', 'r')
 names_not_real = file.readlines()
 #makes every word into a list then adds the start and end symbol to that list
 #So you have a list of lists
-names = [["<S>"] + list(x.strip('\n')) + ["<E>"] for x in names_not_real]
+names = [["<S>"] + list(x.strip('\n')) + ["<E>"] for x in names_not_real[500:900]]
 
 
 #gets a list of every character we use with no duplicates (b/c of set)
@@ -63,7 +63,7 @@ for name in names:
 #the #%% creates a cell so we can see the plot
 #took this from Andrej Karapathy
 #to visualize our tensor
-# %%
+#%%
 plt.figure(figsize=(32,32))
 plt.imshow(N, cmap='Blues')
 for i in range(56):
@@ -73,3 +73,16 @@ for i in range(56):
         plt.text(j, i, N[i,j].item(), ha='center', va='top', color='gray')
 plt.axis('off')
 #plt.imshow(N)
+
+
+#gets the probability by dividing amount of each occurance by the total # of occurances
+p = N[40].float()
+p = p / p.sum()
+
+#generates 1x3 tensor w/ random numbers from [0,1]
+g = torch.Generator().manual_seed(2147483647)
+q = torch.rand(3, generator=g)
+#find probability of this tensor
+q = q / q.sum()
+
+print(q)
