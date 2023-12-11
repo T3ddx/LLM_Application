@@ -1,0 +1,19 @@
+Electrical Engineering Minor
+Minor Coordinator
+Jennifer Graham
+eecsugradadmit@syr.edu
+The minor in electrical engineering requires at least 19 credit hours including 10 credit hours of required courses, at least 6 credit hours elected from a group of 5 courses, and 3 credit hours of junior- or senior-level elective courses offered by the electrical engineering program.
+The minor in electrical engineering must include the following courses (10 credit hours):
+ELE 231 - Electrical Engineering Fundamentals
+ELE 251 - Fundamentals of Linear Systems
+ELE 292 - Linear Systems Laboratory
+ELE 351 - System and Signal Analysis
+The minor in electrical engineering must include 2 of the following 5 courses (6 or 7 credit hours):
+ELE 314 - Power Engineering
+ELE 324 - Electromagnetics
+ELE 333 - Analog Electronics
+ELE 354 - Communication Systems
+ELE 392 - Digital Signal Processing and Control Systems Laboratory
+The minor in electrical engineering must also include any other ELE course 300 level or higher (3 credit hours)
+Total 19 (or 20) credit hours
+

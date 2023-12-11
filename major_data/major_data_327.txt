@@ -1,0 +1,36 @@
+Infrastructure, Cities, and the Future Minor
+Contacts:
+Minor Coordinator
+Andria Costello Staniec,  Department Chair Civil and Environmental Engineering
+151 Link Hall
+315-443-1057
+costello@syr.edu
+Faculty:
+Riyad S. Aboutaha, Shobha K. Bhatia, Elizabeth Carter, David G. Chandler, Ruth Chen, Andria Costello Staniec, Charles T. Driscoll Jr., Chris E. Johnson, Min Liu, Yizhi Liu, Eric M. Lui, Sinead Mac Namara, Aaron Mohammed, Dawit Negussey, Zhao Qin, Baris Salman, Yilei Shi, Svetoslava Todorova, John Trimmer, Teng Zeng
+Description: 
+It is impossible to imagine everyday life without infrastructures. Roads, bridges, terminals, airports, railways, and transit systems enable safe and efficient mobility. Factories depend on infrastructures - manufacturing systems and robots, buildings, power and water systems, storage and waste disposal systems, procurement systems and supply chains - to turn out goods. Computing and network connectivity infrastructures have greatly enriched social life, and new data gathering devices like tiny sensors and UAVs (drones) make up the infrastructure of many smart city installations. Infrastructures are systems of systems.
+Infrastructures are often large in size, scope, and reach, technologically complex, and expensive to design and build. Infrastructures can be publicly owned (water supply systems, parks and urban spaces, infrastructure supporting public health and safety) or privately-owned (cellular telephone towers, utility street poles, privately-owned and operated power plants). Infrastructures can be long-lived (the interstate highway system) but they can also be transient (the massive post 9/11 recovery operation in New York City). Public or corporate, digital or not, enduring or transitory, the scope and complexity of infrastructure design and development demand both hard and soft skills, ranging from domain knowledge to project management, effective teamwork, ethics, design discipline, and written and spoken communication.
+Today’s infrastructure professionals are challenged to create and employ innovative techniques for building, financing, managing, designing, and envisioning infrastructure. They are asked to integrate skills and knowledge to address such issues as equity and social justice, threats posed by climate change, calls for efficiency in the delivery of government services, and the private sector’s concerns with reducing risk and delivering return on investment.
+The Infrastructure, Cities, and the Future minor is designed to prepare students to take on these tasks and to provide leadership in the infrastructure industry. Students completing the program will be prepared to engage in research and commentary as infrastructure policy and practice evolves. More broadly, the minor prepares students to participate in design, policy choices and decision-making about infrastructure development and management, whether as informed citizens or infrastructure professionals.
+Admission:
+This minor is available to all University undergraduate students with a cumulative GPA of 2.8 or above. To be admitted to the program, students must submit a Declaration of Minor form signed by their academic advisor; Infrastructure, Cities, and the Future minor coordinator; and the academic dean of their home school/college.
+Student Learning Outcomes
+Upon completion of the program, students will be able to:
+1. Communicate the role that infrastructure plays (currently and historically) in the life of communities, cities, and larger geographical/political regions.
+2. Apply fundamental critical thinking skills to the analysis of future infrastructure needs; community, economic, and societal impacts, and proposals for new infrastructure projects.
+3. Analyze and recommend appropriate traditional and innovative tools to support the finance, delivery, design, and management of infrastructure projects.
+4. Demonstrate creativity, rigor and critical thinking in the design of infrastructure and smart city systems.
+5. Apply principles of ethics, sustainability, and resilience to infrastructure project design and evaluation.
+6. Participate knowledgeably and effectively in wide ranging public debates on infrastructure needs, project design, and public policy-related infrastructure measures.
+7. Demonstrate project management skills and the ability to effectively manage client and project team relations.
+Requirements
+To complete a minor in Infrastructure, Cities, and the Future, students are required to declare the minor using the minor declaration form, and take a minimum of six courses (at least 18 credits) as described below with a combined GPA of at least 2.00.
+Core Courses (9 Credits)
+BUA 275/CEE 275 Infrastructure and Society
+BUA 361/CEE 361 Evolution of an Infrastructure Project
+BUA 362/CEE 362 Infrastructure Design Capstone Course
+Elective Courses (9 Credits)
+Three courses drawn from a list of allowable courses from ECS, Maxwell, Whitman, VPA, Falk, and the iSchool.  The Minor Coordinator has an updated list of elective courses for the current academic year.
+Notes
+This is an interdisciplinary minor which combines material from the disciplines of business, engineering, policy, design, and information science and applies this content to the study of infrastructure management and development.
+

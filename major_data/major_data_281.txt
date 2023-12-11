@@ -1,0 +1,41 @@
+Sport Analytics, Minor
+Coordinator
+Francesco Riverso, Program Manager, Sport Analytics
+300 MacNaughton Hall
+315-443-5670
+friverso@syr.edu
+Description
+The 18-credit minor in Sport Analytics is designed for students who are interested in pursuing a path in the sport analytics field along with their chosen major. Students selecting this minor, within the Department of Sport Management, should have an interest in studying research methodology, sport economics, database management, computer programming, and technology integral to sport analytics.
+Admission
+The Sport Analytics minor is available to matriculated undergraduate students. Applicants are required to have a minimum 3.4 cumulative GPA, will be admitted on a space available basis, and must have a minimum of four semesters on campus to complete the requirements. There are two deadlines for submitting applications for the Sport Analytics minor: November 1 and April 1 of each academic year. Due to course sequencing and enrollment limitations, students must have a minimum four semesters on campus to complete the minor requirements. Any student wishing to apply for a Sport Analytics minor after the spring of the sophomore year will be ineligible to declare the minor due to space availability and course sequencing. It is recommended that students complete the following courses prior to applying for the minor: 
+MAT 221: Elementary Probability and Statistics
+ECN 101: Principles of Microeconomics
+ECN 102  Principles of Macroeconomics 
+OR
+ECN 203: Economic Ideas and Issues 
+Students will be admitted on a space available basis. Student must have completed 30 credits at Syracuse University in courses graded A-F and must submit a minor application to the Department of Sport Management (402 MacNaughton Hall) by November 1st for spring admission or April 1st for fall admission. Students must declare the sport analytics minor no later than the first semester of their junior year.
+Student Learning Outcomes
+The key learning outcomes are based upon developing skills in mathematics, computer programming and software, databases, economics, communication, and sports data. Upon completion of the program, students will be able to:
+1. Explain, discuss, and analyze core principles and concepts of sport management.
+2. Compile and organize data from sports teams, leagues, and related businesses.
+3. Interpret data from the sport industry and identify patterns via statistical analysis, visualization, and data mining.
+4. Develop computer programming skills to be able to extract, scrape, manage, and parse data for use in statistical analyses.
+5. Take the data derived from the analyses to make recommendations for business decisions within sport organizations.
+6. Communicate sport analytics concepts in writing and orally, clearly, and concisely. 
+Curriculum Requirements
+Required Courses:
+SAL 213 - Sport Data Analysis I
+SAL 313 - Sport Data Analysis II
+SAL 295 - Research Methodology for Sport Analytics
+SAL 413 - R for Sport Analytics
+SPM 365 - Sport Economics
+Electives
+One additional sport analytics course (3 credits) from the list below at the 300 level or above. Note: Other SAL courses numbered 300 or above may be petitioned for review to fulfill elective credit requirement.
+SAL 323 - Database and Programming for Sport Analytics
+IST 359 - Introduction to Database Management Systems
+SAL 366 - Sport Economics II
+SAL 384 - Advanced Python for Sport Analytics
+Total Credits Required: 18
+Restrictions
+The Sport Analytics minor is open to all students based on the admission requirements stated above.
+

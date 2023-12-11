@@ -1,0 +1,47 @@
+Digital Humanities, BA
+Contact:
+Dr. Sarah Fuchs
+sefuchss@syr.edu
+Affiliated Faculty:
+Chris Forster, Sarah Fuchs, Chris Hanson, Patrick Berry, and Patrick Williams
+The Digital Humanities integrated learning major is a 21-credit interdisciplinary program that brings the traditional strengths of the humanities to the study of digital culture. The digital studies major provides students with a structured opportunity to apply the skills of critical thinking, creativity, and historical contextualization to digital cultures and technologies. The major features three introductory core courses, one course focused on technical skills, three elective courses chosen from offerings in various disciplines, and a capstone in which students will demonstrate their mastery and understanding of digital culture. The major seeks to combine a rigorous contextualization of digital technology and culture within a much longer history (and analysis of our own moment in history) with creative experimentation with digital technology.
+This Digital Humanities ILM will provide students with an opportunity to deepen their critical, theoretical, and historical perspectives on digital technologies. The major may be paired with any major in the College of Arts and Sciences/Maxwell, which will allow our students to explore focused paths for integrating uses of technology with work in liberal arts disciplines.
+This ILM may be combined with any other undergraduate major with approval by the program director. While certain majors typically serve as the base major for this ILM, students are encouraged to meet with the program director to determine their best choice of a base major. Dually enrolled students must have a base major within Arts and Sciences|Maxwell.
+Dual Enrollments:
+Students dually enrolled in Newhouse* and Arts and Sciences|Maxwell will complete a minimum of 122 credits, with at least 90 credits in Arts and Sciences|Maxwell coursework and an Arts and Sciences|Maxwell major.
+*Students dually enrolled in the College of Arts and Sciences|Maxwell as first year students must complete the Liberal Arts Core. Students who transfer to the dual program after their first year as singly enrolled students in the Newhouse School will satisfy general requirements for the dual degree program by completing the Newhouse Core Requirements.
+Core Courses - 9 credits
+ENG 305 - Topics in Critical Analysis
+HUM 141 - Computing Culture: Technology and the Humanities
+WRT 302 - Advanced Writing Studio: Digital Writing
+Technical Skills Course
+3 credits from the following list of options:
+CAR 111 - Introduction to Programming for Visual Art
+CPS 196 - Introduction to Computer Programming
+IST 195 - Information Technologies
+IST 256 - Application Programming for Information Systems
+IST 387 - Introduction to Applied Data Science
+Electives
+2 classes (6 credits) chosen from the following list of courses:
+AAS 410 - Seminar on Social Change
+AAS 433 - Harlem Renaissance:Literature and Ideology
+CAR 230 - Topics in Computer Gaming I
+ENG 146 - Interpretation of New Media
+ENG 305 - Topics in Critical Analysis
+ENG 410 - Topics in Forms and Genres
+ENG 440 - Topics in Theorizing History and Culture
+GEO 478 - Spatial Storytelling
+HOM 415 - History of Recorded Sound
+HOM 419 - Music and Media
+HST 410 - Science and Technology in the Modern World
+IST 336 - Leading Issues in Information Security
+IST 343 - Data in Society
+IST 414 - Data Driven Inquiry
+PSC 315 - Politics and Media
+SOC 423 - Technology, Science and Society
+WRT 425 - Digital Identities
+WRT 426 - Studies in Writing, Rhetoric, and Information Technology
+Digital Humanities Capstone
+Production of a final project that provides practical, hands-on experience with approaches to the digital humanities.
+HUM 441 - Digital Humanities Capstone
+

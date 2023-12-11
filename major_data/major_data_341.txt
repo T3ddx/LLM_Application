@@ -1,0 +1,27 @@
+Full Stack Development Certificate
+Contact
+Associate Dean:
+Ryan O. Williams, Associate Dean of Academic Affairs, Professor of Practice
+College of Professional Studies, rywillia@syr.edu
+Program Director:
+Steve Wallace, Professor of Practice
+College of Professional Studies, swalla02@syr.edu
+  Program Questions, contact the College of Professional Studies at 315-443-9378, or email parttime@syr.edu
+  Faculty List 
+Description
+This certificate prepares students to build both web-based and hybrid computer solutions. Students will master front-end development and server-side development through this certificate. A full-stack developer will be knowledgeable of and be able to design, develop, test, and deploy web high-end applications that incorporate SQL databases, server-side as well as client-side coding, graphics, and accessibility.
+Admission
+30 college credits.
+Student Learning Outcomes
+Design a system, component, or process to meet desired outcomes within realistic constraints.
+Exhibit the ability to identify, formulate and solve problems.
+Apply SQL databases and Bootstrap to an application.
+Requirements
+15 Credits 
+SCP 220 - Basic Principles of Computer Programming 
+SCP 225 - Concepts in Digital Graphics  
+SCP 285 - Object-Oriented Programming  
+SCP 305 - Database Management  
+SCP 420 - Web Application and Design  
+The certificate is administered by the College of Professional Studies. Each student should consult with their Academic Advisor to ensure certificate completion.
+

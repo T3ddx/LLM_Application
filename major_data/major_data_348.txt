@@ -1,0 +1,70 @@
+Studies in Computer Programming, BPS
+Contact:
+Academic Director:
+Ryan O. Williams, Associate Dean of Academic Affairs, Professor of Practice
+College of Professional Studies, rywillia@syr.edu
+Program Director: 
+Steve Wallace, Professor of Practice
+College of Professional Studies, swalla02@syr.edu
+ Program Questions, contact the College of Professional Studies at 315-443-9378, or email parttime@syr.edu
+Faculty List 
+Description:
+The professional studies degree prepares graduates for career placement or advancement in computer programming. Courses will be applied and transdisciplinary – designed to develop and improve work-ready skills through a wide range of computer programming competencies and cognitive skills. It will address the following computer programming knowledge areas: programming fundamentals; programming in various programming languages; critical thinking; problem synthesis and solving; program design; mathematics; and testing, and evaluation.
+Student Learning Outcomes
+1. Design a system, component, or process to meet desired outcomes within realistic constraints.
+2. Demonstrate ability to successfully function on multi-disciplinary team.
+3. Exhibit the ability to identify, formulate and solve problems.
+4. Explain and illustrate professional and ethical responsibility.
+Liberal Studies Core - 30 Credits
+The Liberal Studies Core gives a foundation in writing, language or quantitative skills, humanities, social science, natural science, and critical reflections. It draws upon lower-division courses in the College of Arts and Sciences.
+Writing (6 credits)
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+Quantitative Skills (8 credits)
+Complete math sequence outlined in the Liberal Arts Core Guidebook.
+Humanities (Choose 6 credits)
+Any course listed in the Humanities Division of the Liberal Arts Core Guidebook.
+Social Science (Choose 6 credits)
+Any course listed in the Social Science Division of the Liberal Arts Core Guidebook.
+Natural Science (Choose 4 credits)
+Any course listed in the Natural Sciences Division of the Liberal Arts Core Guidebook.
+
+Students are required to select one Liberal Arts Core Course that meets the IDEA requirement
+Professional Competencies Core (30 credits)
+The Professional Competencies Core covers fundamental knowledge and abilities required in the modern workplace, such as ethics and critical thinking, problem solving, human relations, diversity and change management, budgeting and resource management, and teamwork. The Professional Competencies Core includes an introductory course, and a capstone experience required of all B.P.S. students. Designed to draw together issues from across the entire B.P.S. program, these courses summarize concepts covered in the curriculum and develop students’ skills in strategic decision-making that looks to the future.
+
+Required (9 credits)
+BPS 144 - Orange Immersion
+BPS 211 - Introduction to Professional Studies
+BPS 411 - Senior Seminar
+FYS 101 - First Year Seminar
+Choose 7 of the following (21 credits)
+BPS 303 - Introduction to Change Management
+BPS 315 - Practical Financial Management for the Working Professional
+BPS 317 - Assertiveness in the Workplace for Professional Studies
+CRL 319 - Global Leadership
+BPS 321 - Rhetorical Awareness and the Diverse Workplace
+BPS 325 - Creative and Design Thinking for Professional Studies
+BPS 335 - Conflict in Business and Management for Professional Studies
+BPS 382 - Leading Cooperative Negotiations
+CYB 323 - Introduction to Information Security for Professional Studies
+PPM 301 - Foundations of Project Management
+PPM 325 - Project Communications and Stakeholder Management
+SCP 444 - Programming for iOS
+SCP 450 - Programming for Android
+Major Requirements (33 credits)
+SCP 103 - Introduction to Computing Systems
+SCP 220 - Basic Principles of Computer Programming
+SCP 282 - System Software Design for Professionals
+SCP 285 - Object-Oriented Programming
+SCP 305 - Database Management
+SCP 315 - Introduction to Mobile Applications
+SCP 350 - Introduction to HTML/CSS
+SCP 355 - Introduction to Javascript/jQuery
+SCP 405 - Programming in C++ Part I
+SCP 420 - Web Application and Design
+SCP 451 - Programming in Java
+Electives 27 credits
+Note:
+The degree is administered by the College of Professional Studies. Each student should consult with their Academic Advisor to structure a plan for degree completion.
+

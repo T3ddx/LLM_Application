@@ -1,0 +1,27 @@
+Computer Gaming Minor
+Contact
+Rebecca Ruige Xu, Program Coordinator
+102 Shaffer Art Building, 315-443-1033, rxu@syr.edu
+Description
+The minor in computer gaming creates a focus for students interested in the practical, social, and theoretical aspects of computer/video games. The Core Requirements comprise technical and theoretical foundation courses while the Advanced Core Requirements allow students to further deepen their study of computer gaming. 
+Student Learning Outcomes
+1. Technical Skills - Demonstrate technical skills in Computer Gaming
+2. Conceptual Skills - Demonstrate conceptual skills in Computer Gaming
+3. Critical Thinking - Articulate thoughts and concepts clearly and effectively through computer gaming projects/artworks
+4. Integration of Skills - Conceptualize and realize computer gaming projects/artworks
+5. Collaboration Skills - Realize projects in computer gaming as part of creative teams
+Core Requirements (choose 9 credits)
+CAR 101 - Introduction to 3D Animation
+CAR 111 - Introduction to Programming for Visual Art
+CAR 201 - Intermediate 3D Animation
+CAR 230 - Topics in Computer Gaming I
+CIS 425 - Introduction to Computer Graphics
+ENG 146 - Interpretation of New Media
+Advanced Core Requirements (choose 12 credits)
+CAR 330 - Topics in Computer Gaming II
+CAR 430 - Computer Art Seminar
+CAR 530 - Special Topics in Digital Art
+CSE 483 - C# and Windows Programming
+ENG 410 - Topics in Forms and Genres
+ENG 440 - Topics in Theorizing History and Culture
+

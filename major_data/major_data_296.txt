@@ -1,0 +1,30 @@
+Applied Data Analytics Minor
+Contact:
+Bruce Kingma, Professor of Entrepreneurship
+Program Director
+(315) 443-2911
+iundergrad@syr.edu
+Website: 
+https://ischool.syr.edu/academics/data-analytics-minor/
+Overview:
+Empower data-driven decision making.
+As data and technology become increasingly fundamental to how businesses operate, understanding how to derive, communicate, and apply data-driven insights to organizational problems is an in-demand skill set that will give you an advantage over other graduates in your field.
+Every industry and profession need graduates who can use data to deepen their knowledge, further their research, and make better business decisions. That is why our minor in Data Analytics is open to all students at Syracuse University outside of the iSchool, regardless of college or major.
+Student Learning Outcomes
+Use data-driven approaches (e.g., visual, quantitative, qualitative, and computational) to generate insight from data, across a range of contexts (e.g., societal, business, political).
+Examine how individuals, organizations and society are created and impacted by data and machine learning models.
+Utilize data science development tools to support the full analytics life cycle.
+Required Core for Minor in Data Analytics
+The following three courses are required for the Minor in Data Analytics.
+IST 343 - Data in Society
+IST 387 - Introduction to Applied Data Science
+IST 414 - Data Driven Inquiry
+Electives (choose 3)
+Select three courses from the following list of electives to complete the Minor in Data Analytics.
+IST 256 - Application Programming for Information Systems
+IST 359 - Introduction to Database Management Systems
+IST 407 - Data Mining
+IST 418 - Big Data Analytics
+IST 421 - Information Visualization
+IST 462 - Scripting for Data Analysis
+

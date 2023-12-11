@@ -1,0 +1,139 @@
+Computer Science, BS
+Program Director
+Susan Older
+
+315-443-2652
+
+eecsugradadmit@syr.edu.
+Description
+The mission of the computer and information science programs is to assist students to be ready for work and ready for change. This means preparing students to make professional contributions to computer and information science immediately upon graduation and throughout their professional careers, and to adapt to technological and societal changes.
+This program is accredited by the Computing Accreditation Commission of ABET, http://www.abet.org.
+The programs in computer science prepare professionals who will adapt to constant changes in technology and who will be leaders in developing the new technologies of the Information Age. The multidisciplinary nature of the curricula offers students a high degree of flexibility to design a program of study tailored to their interests and professional aspirations.
+Computer science focuses on programming, algorithms, large-scale software development, and the principles of computing that underlie these areas. Syracuse’s program weaves together an emphasis on fundamental principles with new developments in computing, producing graduates prepared either to begin careers or to pursue advanced studies in the field.
+With this program you will have opportunities to learn about:
+Computer and internet security
+Artificial intelligence and machine learning to develop machines that can work among humans.
+Operating system design to develop the next innovation to change Windows, Mac OS X and Unix or to invent a completely new operating system.
+Innovative thinking so you can design programs that control rockets, future search engines, and cars that drive themselves.
+Mathematics to reveal the limits of today’s computers and explore the possibility of a new kind of computer that has yet to be imagined.
+Problem solving, independent thinking and team collaboration in developing a large-scale software systems with other computer scientists and software engineers.
+Student Learning Outcomes
+1. Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions
+2. Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline
+3. Communicate effectively in a variety of professional contexts
+4. Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles
+5. Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline
+6. Apply computer science theory and software development fundamentals to produce computing-based solutions
+Distribution and Core Requirements
+The BS degree in Computer Science requires a minimum of 120 credits. The requirements are divided into a general education section, a mathematics section, and a major section.
+General Education Section
+Completion of the general education section requires at least 47 credits of coursework, as follows. Each student is required to complete 6 credits of writing (WRT 105, WRT 205) and 3 credits in presentational skills by taking at least one course out of the following:
+CRS 225 - Public Advocacy
+CRS 325 - Presentational Speaking
+IST 344 - Information Reporting and Presentation
+Natural Sciences
+The student is further required to complete 8 credits of natural sciences,  as follows.
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+In addition, students must complete one of the following options: PHY 212 and PHY 222; CHE 106 and CHE 107; or  BIO 121 and BIO 122.
+Social Science and Humanities
+The student is required to complete 21 credits in social science and humanities (A/SS/H), including the following two courses:
+PHI 251 - Logic
+ECS 392 - Ethical Aspects of Engineering and Computer Science
+The remaining 15 credits may be chosen from courses offered by the College of Arts and Sciences or by the College of Visual and Performing Arts.
+(See exclusions in the Undergraduate Student Handbook)
+Free Electives
+Finally, each student has 8 credits of free electives. This requirement can be satisfied by any courses except for CPS courses and certain remedial courses. A list of such courses can be obtained from the CIS program office.
+Mathematics Section
+The mathematics section requires at least 15 credits of math. The student must complete the following courses:
+MAT 295 - Calculus I
+MAT 296 - Calculus II
+ MAT 397 - Calculus III
+or
+MAT 331 - First Course in Linear Algebra
+ CIS 321 - Introduction to Probability and Statistics
+Major Section
+The major section consists of ECS 101 - Introduction to Engineering and Computer Science, CIS 151 - Fundamentals of Computing and Programming, the 34-credit computer science core (listed below), and 18-credits of upper-division technical electives.
+
+
+
+Computer Science Core
+CIS 252 - Elements of Computer Science
+CIS 341 - Computer Organization & Programming Systems
+CIS 351 - Data Structures
+CIS 352 - Programming Language: Theory & Practice
+CSE 384 - Systems and Network Programming
+CIS 375 - Introduction to Discrete Mathematics
+CIS 453 - Software Specification and Design
+CIS 454 - Software Implementation
+CIS 473 - Automata and Computability
+CIS 477 - Introduction to Analysis of Algorithms
+CSE 486 - Design of Operating Systems
+Academic Standards
+Students are required to meet academic standards as follows: no grade below C- will satisfy the requirements for the 6 credits of writing, for the mathematics section, for the computer science core, and the 18 credits of upper-division technical electives. The computer science core must be completed with a B- (2.667) average.
+Upper Division Technical Electives
+Students must complete 18 credits of upper division electives chosen from the following listing. At least 9 credits of the upper division technical electives must be in computer science or computer engineering.
+Arts and Sciences
+Students may choose any mathematics courses numbered about 400, unless specifically excluded (e.g., MAT 521 and MAT 485). Students may also choose from the following philosophy courses:
+
+
+
+PHI 378 - Minds and Machines
+PHI 451 - Logic and Language
+PHI 551 - Mathematical Logic
+PHI 552 - Modal Logic
+Computer and Information Science
+Students may select any CIS or CSE courses numbered above 300, unless specifically excluded.
+Representative Program of Study
+First Year, Fall Semester (17)
+ECS 101 - Introduction to Engineering and Computer Science
+CIS 151 - Fundamentals of Computing and Programming
+MAT 295 - Calculus I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+A/SS/H elective
+First Year, Spring Semester (15)
+CIS 252 - Elements of Computer Science
+MAT 296 - Calculus II
+PHI 251 - Logic
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+Second Year, Fall Semester (13-14)
+CIS 375 - Introduction to Discrete Mathematics
+CIS 351 - Data Structures
+ MAT 397 - Calculus III or
+MAT 331 - First Course in Linear Algebra
+Science elective (4)
+Second Year, Spring Semester (16)
+CIS 321 - Introduction to Probability and Statistics
+CIS 341 - Computer Organization & Programming Systems
+CIS 352 - Programming Language: Theory & Practice
+CSE 384 - Systems and Network Programming
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+Third Year, Fall Semester (15)
+CIS 453 - Software Specification and Design
+CIS 477 - Introduction to Analysis of Algorithms
+CSE 486 - Design of Operating Systems
+Presentation Skills Elective (3)
+A/SS/H elective (3)
+Third Year, Spring Semester (15)
+CIS 473 - Automata and Computability
+CIS 454 - Software Implementation
+Upper-division elective (3)
+A/SS/H Elective (3)
+Free elective (3)
+Fourth Year, Fall Semester (15)
+Upper-division elective (3)
+Upper-division elective (3)
+Upper-division elective (3)
+ECS 392 - Ethical Aspects of Engineering and Computer Science
+A/SS/H elective (3)
+Fourth Year, Spring Semester (14)
+Upper-division elective (3)
+Upper-division elective (3)
+Free elective (3)
+Free elective (2)
+A/SS/H elective (3)
+Intra-University Transfer
+Students who wish to transfer into any program within the College of Engineering and Computer Science from another school or college within the University should have a strong record of achievement and demonstrated success in key technical courses. Specifically, it is critical for the applicant to have proven their ability to excel in college-level calculus (by completing at least one of MAT 295, MAT 296, or MAT 397 with a grade of B- or better) and science (by completing at least one set of PHY 211/PHY 221 or CHE 106/CHE 107 with a grade of B- or better). Students who wish to major in computer science must also complete CIS 252 with a grade of at least a B.
+

@@ -5,6 +5,8 @@ import torch
 #for reproducability
 torch.manual_seed(0)
 
+device = 'cuda' if torch.cuda.is_available() else 'cpu'
+
 #opens file of text
 file = open('text.txt', 'r')
 #gets string
@@ -57,7 +59,7 @@ def get_batch(type):
     rand = torch.randint(len(data) - block_size, (batch_size,))
     inputs = torch.stack([data[i : i+block_size] for i in rand])
     targets = torch.stack([data[i+1 : i+1+block_size] for i in rand])
+    inputs, targets = inputs.to(device), targets.to(device)
     return inputs, targets
 
-x, y = get_batch('training')
 

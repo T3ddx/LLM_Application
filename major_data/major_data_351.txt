@@ -1,0 +1,29 @@
+eSport Gaming Certificate
+Contact
+Associate Dean:
+Ryan O. Williams, Associate Dean of Academic Affairs, Professor of Practice
+College of Professional Studies, rywillia@syr.edu
+Program Director: 
+Steve Wallace, Professor of Practice
+College of Professional Studies, swalla02@syr.edu
+  Program Questions, contact the College of Professional Studies at 315-443-9378, or email parttime@syr.edu
+  Faculty List 
+Description
+This certificate will prepare students to prepare for a development career in eSports. Students will be able to speak about the history, growth, and business of eSports, but will focus primarily on the game development aspects of multiplayer eSports. This certification can be for anyone wanting to work in the game development side of the eSport industry. You will also learn about the digital graphics, programming, multiplayer game design, and project movement.
+Admission
+Associate degree or 30 college credits.
+Student Learning Outcomes
+Demonstrate ability to successfully function on multi-disciplinary team.
+Exhibit the ability to identify, formulate and solve problems.
+Explain and illustrate professional and ethical responsibility.
+Apply management principles to a game development project.
+Requirements
+18 Credits
+SCP 220 - Basic Principles of Computer Programming
+SCP 225 - Concepts in Digital Graphics
+SCP 285 - Object-Oriented Programming
+SCP 295 - Esports Fundamentals
+SCP 405 - Programming in C++ Part I
+SCP 435 - Multiplayer Game Design Competition
+The certificate is administered by the College of Professional Studies. Each student should consult with their Academic Advisor to ensure certificate completion.
+

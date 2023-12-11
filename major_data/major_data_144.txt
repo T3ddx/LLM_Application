@@ -1,0 +1,93 @@
+Civil Engineering, BS
+Department Chair:
+Dr. Andria Costello Staniec, 151 Link Hall, 315-443-2311, costello@syr.edu
+Program Director:
+Dr. Yilei Shi, 151E Link Hall, 315-443-3307, yshi83@syr.edu
+Civil Engineering Faculty
+Riyad S. Aboutaha, Shobha K. Bhatia, Elizabeth Carter, David G. Chandler, Ruth Chen, Andria Costello Staniec, Charles T. Driscoll Jr., Chris E. Johnson, Min Liu, Yizhi Liu, Eric M. Lui, Sinead Mac Namara, Aaron Mohammed, Dawit Negussey, Zhao Qin, Baris Salman, Yilei Shi, Svetoslava Todorova, John Trimmer, Teng Zeng
+The mission of the Civil and Environmental Engineering Department is to promote learning and the creation, dissemination, and application of knowledge in civil and environmental engineering through integration of teaching, scholarship, and service.
+The goal of the Civil and Environmental Engineering Department is to prepare students for engineering practice, advanced study, and lifelong learning in civil and environmental engineering. Graduates are expected to be proficient in the fundamentals of sustainable engineering analysis and design and understand the importance and methods of effective communication. Students are encouraged to use the extensive international network and educational resources of Syracuse University and the Syracuse community to broaden and enhance the quality of their university education.
+The educational objectives of the civil engineering program are to produce graduates who:
+can apply technical knowledge and problem-solving skills to advance their careers and serve the community;
+are prepared for engineering practice and advanced studies in civil engineering;
+will engage in life-long learning to keep themselves abreast of new developments in their fields of practice or study; and
+are capable of effective written and oral communications.
+Civil Engineering Description
+Civil engineering is the broadest of the engineering disciplines, extending across many interrelated technical specialties. These technical specialties include structures, hydraulics, geotechnical, environmental, transportation, construction, and water resources. Civil engineers plan, design, and construct facilities essential to modern life in both the private and the public sectors. These facilities vary widely in nature, size, and scope, and include bridges, buildings, tunnels, highways, transit systems, dams, airports, irrigation projects, facilities for water, collection and treatment facilities for wastewater, and many others.
+The first-year curriculum emphasizes the physical and mathematical sciences. Additional courses in mathematics and the sciences, as well as introductory courses in civil engineering are taken during the second year. The last two years of the program focus on planning, design, analysis, and management in civil engineering. The curriculum provides flexibility to allow students to customize their academic programs and take advantage of the diversity across both the college and all of Syracuse University. The four-year program includes coursework in the social sciences and humanities necessary for a well-rounded academic background.
+By selecting electives carefully, students may specialize in any of the following areas: structural engineering, which deals with the analysis, design, and rehabilitation of structures under static and dynamic loads; environmental engineering, which involves the purification and distribution of water in cities and the proper disposal of sewage and industrial wastes; geotechnical engineering, which analyzes the properties of soils and rocks that support and affect the behavior of structures, pavements, and underground facilities, and construction engineering which concerns the planning and execution of large-scale construction and infrastructure projects. Students may also complete minors in a variety of subjects.
+This program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+Adjustments in the program can be made to accommodate transfer students from accredited two- and four-year institutions so they may develop their programs of study as soon as possible after admission.
+Student Learning Outcomes
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+3. An ability to communicate effectively with a range of audiences
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Civil Engineering Curriculum
+First Year, Fall Semester
+MAT 295 - Calculus I
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+ECS 101 - Introduction to Engineering and Computer Science
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+SS/HUM Elective (3)
+Total 18
+First Year, Spring Semester
+MAT 296 - Calculus II
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+SS/HUM Elective (3)
+Select one of the following courses:
+EAR 203 - Earth System Science 
+EAR 105 - Earth Science 
+EAR 104 - Earth Sciences Laboratory
+Note: EAR 104 is the laboratory course for EAR 105 and must be taken concurrently.
+Total 15
+Second Year, Fall Semester
+MAT 397 - Calculus III
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+ECS 221 - Statics
+CEE 273 - Introduction to Geomatics and BIM
+SS/HUM Elective (3)
+Total 17
+Second Year, Spring Semester
+MAT 485 - Differential Equations and Matrix Algebra for Engineers
+ECS 222 - Dynamics
+CEE 274 - Sustainability in Civil and Environmental Systems
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+CEE 325 - Mechanics of Materials
+Total 15
+Third Year, Fall Semester
+CEE 331 - Analysis of Structures and Materials
+CEE 337 - Introduction to Geotechnical Engineering
+CEE 341 - Introduction to Environmental Engineering
+CEE 327 - Prin of Fluid Mechanics
+SS/HUM Elective (3)
+Total 17
+Third Year, Spring Semester
+CEE 329 - Probability, Statistics and Risk for Civil and Environmental Engineering
+CEE 332 - Design of Concrete Structures
+CEE 338 - Foundation Engineering
+CEE 352 - Water Resources Engineering
+SS/HUM Elective (3)
+Total 17
+Fourth Year, Fall Semester
+CEE 326 - Engineering Materials
+CEE 401 - Construction Engineering and Project Management
+CEE 443 - Transportation Engineering
+Technical Elective (3)
+SS/HUM Elective (3)
+Total 15
+Fourth Year, Spring Semester
+CEE 475 - Civil and Environmental Engineering Design
+Free Elective (3)
+Technical Elective (3)
+Professional Elective (3)
+Total 13
+Total Credits Required 127
+

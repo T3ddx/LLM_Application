@@ -1,0 +1,50 @@
+Mathematics, BA
+Contact:
+Department Chair: Graham J. Leuschke, 215 Carnegie Building, gjleusch@syr.edu, 315-443-1478
+Associate Chair for Undergraduate Studies: Leonid Kovalev, 311C Carnegie Building, lvkovale@syr.edu, 315-443-1487
+Major Advisors:
+S.P. Diaz, L. Kovalev, A. Vogel, S. Wehrli
+Faculty
+Uday Banerjee, Pinyuen Chen, Dan Coman, Steven Diaz, Nicole M.L. Fonger. Pierre Yves Gaudreau Lamarre, Jack E. Graver, Duane Graysay, Lee Kennard, Hyune-Ju Kim, Leonid Kovalev, Loredana Lanzani, Graham J. Leuschke, Wei Li, Jianxuan Liu, Adam Lutoborski, Joanna O. Masingila, Claudia Miller, Jani Onninen, Josh Pollitz, Declan Quinn, Lixin Shen, Gregory Verchota, Andrew Vogel, Stephan Wehrli, William Wylie, Yuan Yuan, Yiming Zhao
+As a preliminary requirement for the mathematics major, students complete 18 credits in the following classes with no grade below a C: MAT 295, MAT 296, MAT 331, MAT 397, and MAT 375. These courses are prerequisites for most upper-division courses. The following sequence is recommended: MAT 295 in the first semester; MAT 296 in the second semester; MAT 331, MAT 397 in the third semester; and MAT 375 when appropriate. However, students with knowledge of trigonometry and a year of high school calculus may be able to enter the sequence at MAT 296 or even MAT 397; students with less preparation may be advised to complete MAT 194 before beginning the calculus sequence. Students considering becoming mathematics majors are strongly encouraged to talk to a mathematics major advisor as soon as possible. Computer science students (only) who have credit for CIS 375, and are pursuing a dual major in mathematics, need not take MAT 375.
+Students who plan to pursue graduate study in mathematics should obtain the B.S. degree and consider taking at least one first-year graduate (600-level) course.
+For all Arts and Sciences|Maxwell students, successful completion of a bachelor’s degree in this major requires a minimum of 120 credits, 96 of which must be Arts and Sciences|Maxwell credits, completion of the Liberal Arts Core requirements, and the requirements for this major that are listed below.
+Dual Enrollments:
+Students dually enrolled in Newhouse* and Arts and Sciences|Maxwell will complete a minimum of 122 credits, with at least 90 credits in Arts and Sciences|Maxwell coursework and an Arts and Sciences|Maxwell major.
+*Students dually enrolled in the College of Arts and Sciences|Maxwell as first year students must complete the Liberal Arts Core. Students who transfer to the dual program after their first year as singly enrolled students in the Newhouse School will satisfy general requirements for the dual degree program by completing the Newhouse Core Requirements.
+Student Learning Outcomes
+1. Demonstrate facility with the techniques of single and multivariable Calculus and Linear Algebra
+2. Effectively communicate mathematical ideas
+3. Make accurate calculations by hand and with technological assistance
+4. Reproduce essential assumptions, definitions, examples, and statements of important theorems
+5. Describe the logical structure of the standard proof formats, reproduce the underlying ideas of the proofs of basic theorems, and create simple original proofs
+6. Solve problems using advanced undergraduate methods from one of the core areas of pure mathematics: Algebra, Analysis, and Probability
+B.A. Degree Requirements
+In addition to the preliminary requirement described above, students are required to complete with an average of at least 2.0 and no grade below D, MAT 412 and 15 additional credits in upper division mathematics (MAT) courses numbered 400 or higher except 421, 485, and 503, at least two of which are from a single one of the groupings below:
+Analysis:
+MAT 511 - Advanced Calculus
+MAT 512 - Introduction to Real Analysis II
+MAT 513 - Introduction to Complex Analysis
+MAT 554 - Differential Geometry
+MAT 562 - Elementary Topology
+Algebra:
+MAT 531 - Second Course in Linear Algebra
+MAT 534 - Introduction to Abstract Algebra
+MAT 541 - Introduction to Number Theory
+Finite Mathematics:
+MAT 531 - Second Course in Linear Algebra
+MAT 541 - Introduction to Number Theory
+MAT 545 - Introduction to Combinatorics
+MAT 551 - Fundamental Concepts of Geometry
+Applied analysis:
+MAT 414 - Introduction to Ordinary Differential Equations
+MAT 517 - Partial Differential Equations and Fourier Series
+MAT 518 - Fourier Series, Transforms and Wavelets
+MAT 581 - Numerical Methods with Programming
+Probability and Statistics:
+MAT 521 - Introduction to Probability
+MAT 525 - Mathematical Statistics
+MAT 526 - Introduction to Stochastic Processes
+Additional Information
+With consent of the advisor, these groupings may be altered.
+

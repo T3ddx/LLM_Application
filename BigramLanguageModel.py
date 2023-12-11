@@ -6,6 +6,24 @@ import random
 #for reproducability
 torch.manual_seed(0)
 
+eval_iters = 300
+
+#everything that happens in this function does not call backward()
+#more efficient
+@torch.no_grad()
+def estimate_loss():
+    out = {}
+    m.eval()
+    for split in ['training', 'validating']:
+        losses = torch.zeros(eval_iters)
+        for k in range(eval_iters):
+            X, Y = t.get_batch(split)
+            _,loss = m(X,Y)
+            losses[k] - loss.time()
+        out[split] = losses.mean()
+    m.train()
+    return out
+
 class BigramLanguageModel(nn.Module):
     #creates embedding table of vocab_size by vocab_size
     #has random vectors for each character in vocab_size
@@ -89,7 +107,25 @@ class BigramLanguageModel(nn.Module):
 
     
 m = BigramLanguageModel(t.vocab_size)
-logits, loss = m(t.x,t.y)
+m = m.to(t.device)
+x, y = t.get_batch('training')
+logits, loss = m(x,y)
+#print(logits[:,-1])
 
-print(t.decode(m.generate(torch.zeros((1,1), dtype=torch.long),1000)[0].tolist()))
+#print(t.decode(m.generate(torch.zeros((1,1), dtype=torch.long),1000)[0].tolist()))
+
+optimizer = torch.optim.AdamW(m.parameters(), lr=1e-3)
+
+batch_size = 32
+print(loss)
+for steps in range(300):
+    xb,yb = t.get_batch('training')
+    logits, loss = m(xb, yb)
+
+    optimizer.zero_grad(set_to_none=True)
+    loss.backward()
+    optimizer.step()
+print(loss)
+print(t.decode(m.generate(torch.zeros((1,1), dtype=torch.long,device=t.device),1000)[0].tolist()))
+
 #print(F.softmax(logits, dim=0))

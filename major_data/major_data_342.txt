@@ -1,0 +1,133 @@
+Applied Data Analytics, BS
+Contact:
+Bruce Kingma, Professor of Entrepreneurship
+Program Director 
+(315) 443-2911
+iundergrad@syr.edu
+  Website: 
+https://ischool.syr.edu/academics/applied-data-analytics-bachelors-degree/
+Introduction:
+The School of Information Studies offers a bachelor of science degree (B.S.) in Applied Data Analytics.  As data and technology become increasingly fundamental to how businesses operate, understanding how to derive, communicate, and apply data-driven insights to organizational problems is an in-demand skill set that will give you an advantage over other graduates in your field.
+Every industry and profession needs graduates who can use data to deepen their knowledge, further their research, and make better business decisions. That is why our Bachelor of Science in Applied Data Analytics is so popular with our students, our faculty, and our corporate partners.  It is a program with a strong emphasis on the applications of data science to enterprise operations and processes, particularly in the areas of data capture, management, analysis and communication for decision making.
+Student Learning Outcomes
+In addition to the comprehensive iSchool Bachelor of Science learning outcomes students are expected to achieve in the course of earning their Bachelor’s degree, students in the Applied Data Analytics major at the iSchool are also expected to achieve the following learning outcomes:
+Use data-driven approaches (e.g., visual, quantitative, qualitative, and computational) to generate insight from data, across a range of contexts (e.g., societal, business, political).
+Examine how individuals, organizations and society are created and impacted by data and machine learning models.
+Utilize data science development tools to support the full analytics life cycle.
+iSchool Bachelor of Science Degree Requirements- Applied Data Analytics
+The B.S. degree in Applied Data Analytics requires 120 credits, distributed as indicated below.
+Applied Data Analytics Curriculum: 30-31 credits
+Applied Data Analytics Primary Core: 21-22 credits
+Students who transfer into the iSchool as an IUT or add an iSchool major after their first year of study, are not required to take IST101.
+IST 101 - First-Year Forum
+IST 195 - Information Technologies
+IST 256 - Application Programming for Information Systems
+IST 343 - Data in Society
+IST 344 - Information Reporting and Presentation
+IST 359 - Introduction to Database Management Systems
+IST 387 - Introduction to Applied Data Science
+IST 414 - Data Driven Inquiry
+Analytical Course Electives: 9 credits
+IST 407 - Data Mining
+IST 418 - Big Data Analytics
+IST 421 - Information Visualization
+IST 462 - Scripting for Data Analysis
+Concentrations and Electives: 15 credits
+Students must complete five additional iSchool courses to fulfill their ADA elective requirement.  Students in this program are not required to complete a concentration but may choose to do so.  Completing a concentration allows students to select course work that matches their professional interests and planned career paths.
+When choosing iSchool electives, students may complete one iSchool concentration or obtain a minor outside the iSchool that leverages the use of analytics (e.g., Sport Analytics, Business Analytics, Computer Science, Applied Statistics, Economics).  Students who choose to obtain a minor (or double major) outside the iSchool can petition to count two analytical focused courses as part of their 15 credit iSchool electives.
+Students may petition the Undergraduate Program Director to approve three courses to be considered a concentration in an area of interest that is not shown in the official list of concentrations. These three courses must provide depth in an area of study.
+Courses cannot be used to satisfy a core requirement, concentration, and an IST elective.
+Students who choose to pursue a concentration can select from one of the following below.  Please note each concentration has one or more required course.
+Digital Retail Strategies Concentration
+Students who pursue the 18-credit Digital Retail Strategies concentration will be required to take three RMT courses and one additional IST elective, as RMT classes do not count towards the 15 credit IST elective requirement.
+Required
+IST 195 - Information Technologies
+RMT 301 - Retailing Fundamentals
+RMT 407 - Retail Buying and Planning
+RMT 457 - Electronic Retailing and Marketing
+Concentration Electives: select two courses from the list below.
+IST 263 - Introduction to Front-End Web Development
+IST 322 - Digital Strategy & Analytics for the Web
+IST 486 - Social Media in the Organization
+IST 523 - Graphic Design for the Web
+Information Security Management Concentration
+Required
+IST 323 - Introduction to Information Security
+Concentration Electives: select two courses from the list below.
+IST 336 - Leading Issues in Information Security
+IST 342 - Information Security Policy
+IST 402 - Digital Forensics
+IST 425 - Enterprise Risk Management
+IST 431 - Security in a Networked Environment
+IST 476 - Applied Information Security
+Innovation, Design, and Startups Concentration
+All three IDS courses below are required.
+IDS 301 - What’s the Big Idea?: Technology Innovation
+IDS 302 - Idea2Startup
+IDS 403 - iLaunchPad
+Network and Cloud Computing Concentration
+Required
+IST 233 - Introduction to Networks and Cloud Computing
+Concentration Electives: select two courses from the list below.
+IST 346 - Information Technology Management and Administration
+IST 408 - Blockchain Management
+IST 431 - Security in a Networked Environment
+IST 452 - Advanced Computer Networking
+Project Management Concentration
+Required
+IST 345 - Managing Information Systems Projects
+Concentration Electives: select two courses from the list below.
+IST 352 - Information Analysis of Organizational Systems
+IST 425 - Enterprise Risk Management
+IST 442 - Agile Project Management Methodologies
+IST 455 - Enterprise IT Consultation
+IST 456 - Information Policies and Decision Making
+Web Design and Management Concentration
+Required
+IST 263 - Introduction to Front-End Web Development
+Concentration Electives: select two courses from the list below.
+IST 322 - Digital Strategy & Analytics for the Web
+IST 341 - Human-Centered Design
+IST 349 - Human Computer Interaction
+IST 363 - Advanced Front End Web Design
+IST 486 - Social Media in the Organization
+IST 523 - Graphic Design for the Web
+University Wide Requirements
+The iSchool participates in students’ knowledge and skill development through the Shared Competencies, Syracuse University’s institutional learning goals that highlight the knowledge and skills students can expect to gain through their major courses, liberal arts requirements and co-curricular activities.
+All incoming and external transfer students are required to take FYS101, a 1-credit course.
+FYS 101 - First Year Seminar
+IDEA
+All incoming and transfer students are required to take a 3-credit IDEA course that can be selected from the approved IDEA Course Requirement list .
+IST courses appearing on the approved IDEA course requirement list may be taken to fulfill both the IDEA requirement and/or a core or concentration requirement.
+Skills Electives: 15-17 credits
+Programming Skills
+Students are required to complete the computer programming course listed below.  Petitions will not be accepted to substitute IST256.
+IST 256 - Application Programming for Information Systems
+Communication Skills: 9 credits
+Students are required to take 12 credits in communications skills, including IST 344, as well as one course from each of the three categories below:
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing OR
+WRT 109 - Studio 1: Practices of Academic Writing (Honors) 
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing OR
+WRT 209 - Studio 2: Critical Research and Writing (Honors) 
+  WRT 303 - Advanced Writing Studio: Research and Writing OR
+WRT 307 - Advanced Writing Studio: Professional Writing 
+Quantitative Skills: 6-8 credits
+Students are required to attain minimum competence in mathematics by completing the quantitative skills requirement of the Liberal Art Core curriculum of the College of Arts and Sciences.
+All ADA majors are required to attain minimum competence in mathematics. Students should take the following:
+MAT 121 / 122 Probability and Statistics for the Liberal Arts
+OR
+MAT 221 / 222  Elementary Probability and Statistics.
+Arts & Sciences Divisional Requirements: 12 courses, minimum 36 credits
+Students are required to take three courses in each of the three divisions of the Arts and Sciences-Natural Sciences and Mathematics, Social Sciences, and Humanities. In addition, three courses in any of the divisions must be completed to fulfill this requirement.
+Students are required to complete a minimum of 60 credits of coursework in the College of Arts & Sciences. Courses from Communication Skills, Quantitative Skills and A&S Divisional Requirements will all count towards the A&S minimum credit requirement. Additional A&S courses will be required to reach the 60 credit minimum requirement.
+General Electives: 21-24 credits
+Students need 120 credits to graduate from Syracuse University.  If after meeting all program and University requirements, the student is still lacking to meet the 120 credits needed for graduation, students can take any undergraduate Syracuse University course to reach the graduation credits total.  Students can concentrate on a minor, a dual degree, a combined degree, an internship experience, or study abroad to reach the minimum of 120 credits required for graduation. 
+International Experience
+Students will be required to complete one international experience to graduate with their iSchool undergraduate degree. iSchool Immersion courses that require domestic travel do not fulfull this requirement. Students can fulfill their international requirement in one of the following ways:
+Semester abroad
+University exchange
+Short term abroad program
+International Internship
+Coursework (6 credits from approved list)
+Approved international component - by petition
+

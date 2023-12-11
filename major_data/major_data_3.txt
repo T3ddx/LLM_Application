@@ -1,0 +1,53 @@
+Applied Mathematics, BA
+Contact:
+Department Chair: Graham J. Leuschke, 215 Carnegie Building, gjleusch@syr.edu, 315-443-1478
+Associate Chair for Undergraduate Studies: Leonid Kovalev, 311C Carnegie Building, lvkovale@syr.edu, 315-443-1487
+Advisors
+S.P. Diaz, L. Kovalev, A. Vogel, S. Wehrli
+Faculty
+Uday Banerjee, Pinyuen Chen, Dan Coman, Steven Diaz, Nicole L. Fonger, Pierre Yves Gaudreau Lamarre, Jack E. Graver, Duane Graysay, Lee Kennard, Hyune-Ju Kim, Leonid Kovalev, Loredana Lanzani, Graham J. Leuschke, Wei Li, Jianxuan Liu, Adam Lutoborski, Joanna O. Masingila, Claudia Miller, Jani Onninen, Josh Pollitz, Declan Quinn, Lixin Shen, Gregory Verchota, Andrew Vogel, Stephan Wehrli, William Wylie, Yuan Yuan, Yiming Zhao
+B.A. in Applied Mathematics is recommended for those students who are pursuing another quantitatively rich major which they consider their primary interest. The toolkit of applicable mathematical methods will enable them to advance further in their own field, whether in industry or in academia.
+For all Arts and Sciences|Maxwell students, successful completion of a bachelor’s degree in this major requires a minimum of 120 credits, 96 of which must be Arts and Sciences|Maxwell credits, completion of the Liberal Arts Core requirements, and the requirements for this major that are listed below.
+Dual Enrollments:
+Students dually enrolled in Newhouse* and Arts and Sciences|Maxwell will complete a minimum of 122 credits, with at least 90 credits in Arts and Sciences|Maxwell coursework and an Arts and Sciences|Maxwell major.
+*Students dually enrolled in the College of Arts and Sciences|Maxwell as first year students must complete the Liberal Arts Core. Students who transfer to the dual program after their first year as singly enrolled students in the Newhouse School will satisfy general requirements for the dual degree program by completing the Newhouse Core Requirements.
+Student Learning Outcomes
+1. Demonstrate facility with the techniques of single and multivariable calculus and linear algebra
+2. Effectively communicate mathematical ideas orally and in writing
+3. Make symbolic calculations by hand and numerical calculations using MATLAB (or other appropriate software)
+4. Reproduce essential assumptions, definitions, examples, and statements of important theorems
+5. Solve standard science and engineering problems by selecting and applying and appropriate mathematical model
+6. Solve problems using advanced undergraduate methods from one of the following areas: differential and linear equations, analysis, probability and statistics
+Preliminary and Extra-disciplinary Requirements
+Preliminary and extra-disciplinary requirements for both B.A and B.S. degrees
+Complete 18 credits in the following classes with no grade below a C: MAT 295, MAT 296, MAT 331, MAT 397, and MAT 375 or CIS 375. These courses are prerequisites for most upper-division courses. The following sequence is recommended: MAT 295 in the first semester; MAT 296 in the second semester; MAT 331, MAT 397 in the third semester; and MAT 375/CIS 375 when appropriate. However, a student with knowledge of trigonometry and a year of high school calculus may be able to enter the sequence at MAT 296 or even MAT 397; a student with less preparation may be advised to complete MAT 194 before beginning the calculus sequence. Students considering becoming mathematics majors are strongly encouraged to talk to a mathematics major advisor as soon as possible to ensure appropriate selection of courses.
+Complete a course in computing such as CPS 196, ECS 102 or ECS 104. A similar course may be substituted with advisor’s approval.
+Complete two sequences of two approved science courses for a total of four different courses outside of the mathematics department, such as BIO 121 - BIO 123, CHE 106 (CHE 107) - CHE 116 (CHE 117), PHY 211 (PHY 221) - PHY 212 (PHY 222), ECN 101 - ECN 102, or ECN 101 - ECN 203, ECS 221 - ECS 222, ELE 231, or another, more advanced sequence with the approval of a mathematics major advisor. This requirement is waived if the student earns either (i) a minor in Applied Statistics, Biology, Chemistry, Computer Science, Economics, Engineering disciplines, Information Management & Technology, or Physics, or (ii) a major in one of natural sciences, engineering/technology disciplines, economics or finance.
+B.A. Degree Requirements
+In addition to the preliminary and extra-disciplinary requirements described above, the student must earn credit for the following courses, with a grade average of at least 2.0.
+Three required courses:
+MAT 414 - Introduction to Ordinary Differential Equations
+MAT 532 - Applied Linear Algebra or
+MAT 531 - Second Course in Linear Algebra
+MAT 581 - Numerical Methods with Programming
+Two courses chosen out of one of the following groups:
+Differential and Linear Equations:
+MAT 511 - Advanced Calculus
+MAT 517 - Partial Differential Equations and Fourier Series
+MAT 518 - Fourier Series, Transforms and Wavelets
+MAT 682 - Numerical Linear Algebra (See graduate catalog for course description).
+Analysis:
+MAT 412 - Introduction to Real Analysis I
+MAT 511 - Advanced Calculus
+MAT 512 - Introduction to Real Analysis II
+MAT 513 - Introduction to Complex Analysis
+MAT 554 - Differential Geometry
+Probability and Statistics:
+MAT 521 - Introduction to Probability
+MAT 525 - Mathematical Statistics
+MAT 526 - Introduction to Stochastic Processes
+Additional Information
+With consent of the mathematics major advisor, these groupings may be altered.
+3 credits of elective mathematics courses:
+MAT 412 or those MAT courses numbered 490 or higher, except MAT 503. With prior approval of the student’s major advisor, a mathematically rich 500+ level course in another department may be substituted for the mathematics elective.
+

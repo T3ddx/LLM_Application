@@ -1,0 +1,58 @@
+Energy Systems Minor
+Minor Coordinator
+Please contact:
+Jianshun Zhang
+263 Link Hall
+Syracuse University
+Syracuse, NY 13244-1240
+315-443-1366
+jszhang@syr.edu
+This minor option will provide students enrolled within the College of Engineering and Computer Science with a grouping of courses/electives that will provide academic depth in the field of energy related systems in 4 different but related tracks.
+Admission to the energy systems minor is by permission of an academic advisor and requires students to be enrolled in a B.S. program in Engineering within the College of Engineering and Computer Science.
+Students with sufficient technical background from other Syracuse University Academic Units may be considered for admission to the Minor in Energy Systems and such decisions will be made by the E&CS Energy Systems Committee.
+Course Requirements
+The following courses must be taken by all students within the minor regardless of the specific track:
+MAE 251 - Thermodynamics or
+CEN 252 - Chemical Engineering Thermodynamics I
+MAE 548 - Engineering Economics and Technology Valuation
+ECN 203 - Economic Ideas and Issues
+MAE 551 - Energy Conversion
+Track-Specific Courses
+In addition, 3 track-specific courses must be taken from a list of required and elective courses for each of the 4 individual tracks. These 4 track specific lists are available from an academic advisor.
+1. Thermo-Mechanical Energy Systems Track
+Select any 2 of the following courses, plus 1 elective from any of the 4 Energy Systems Tracks:
+MAE 553 - HVAC Systems Analysis and Design
+MAE 554 - Principles of Refrigeration
+MAE 585 - Principles of Turbomachines
+MAE 457 - Automotive Engineering for ECS Students
+AEE 446 - Air-breathing and Rocket Propulsion
+2. Nuclear Energy Track
+Required:
+NUC 301 - Introduction to Nuclear Engineering and Reactor Safety
+Select either of the following 2 courses
+NUC 510 - Nuclear Reactor Design, Operation and Safety
+NUC 520 - Radiochemistry, Nuclear Fuel Reprocessing and Nonproliferation
+Plus 1 of the remaining NUC Electives, or 1 Elective from any other Energy Systems Track:
+NUC 510 - Nuclear Reactor Design, Operation and Safety
+NUC 520 - Radiochemistry, Nuclear Fuel Reprocessing and Nonproliferation
+NUC 530 - Electric Power Generation and Distribution
+NUC 540 - Experiential Studies in Nuclear Technology
+3. Renewable Energy Track
+Select any 2 of the following, plus 1 elective from any of the 4 energy Systems Tacks:
+CEN 455 - Materials for Energy Systems
+CEN 462 - Biofuels, Bioproducts, and Biorefining or
+CEN 421 - Biochemical Engineering
+MAE 486 - Fuel Cell Science and Technology
+MAE 587 - Design of Solar Energy System
+or
+PHY 305 - Solar Energy Science and Architectures
+MAE 588 - Principles of Wind Turbines
+Others to be announced
+4. Electric Power Track
+Select any 2 electives from the following list:
+plus 1 elective from any of the 4 Energy Systems Tracks. (Note: You can take either ELE 514 or ELE/NUC 530 but not both)
+ELE 324 - Electromagnetics
+ELE 416 - Electromechanical Devices
+Notes
+Because MEE students take ECN 203 as a required SS/H course they must take another SS/H elective as part of their minor.
+

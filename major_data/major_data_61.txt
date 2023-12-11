@@ -1,0 +1,49 @@
+Mathematics Minor
+Contact
+Mathematics Minor Advisor: Leonid Kovalev, lvkovale@syr.edu, 315-443-1487
+Faculty
+Uday Banerjee, Pinyuen Chen, Dan Coman, Steven Diaz, Nicole M.L. Fonger, Pierre Yves Gaudreau Lamarre, Jack E. Graver, Duane Graysay, Lee Kennard, Hyune-Ju Kim, Leonid Kovalev, Loredana Lanzani, Graham J. Leuschke, Wei Li, Jianxuan Liu, Adam Lutoborski, Joanna O. Masingila, Claudia Miller, Josh Pollitz, Jani Onninen, Declan Quinn, Lixin Shen, Gregory Verchota, Andrew Vogel, Stephan Wehrli, William Wylie, Yuan Yuan, Yiming Zhao
+Requirements
+The minor in mathematics requires the completion of 21 credits with a grade point average of 2.0 or better. Students must complete the courses listed in the following three items to fulfill the 21 credit requirement.
+12 credits of calculus: MAT 295, 296, 397 (MAT 284, 285, 286, are not permissible toward this requirement.)
+3 credits in MAT 331 (recommended) or MAT 485
+6 credits in one of the following subject areas:
+Additional Subject Areas:
+Algebra:
+MAT 531
+MAT 531 - Second Course in Linear Algebra
+And one course chosen from
+MAT 534 - Introduction to Abstract Algebra
+MAT 541 - Introduction to Number Theory
+MAT 545 - Introduction to Combinatorics
+Analysis:
+Any two courses chosen from
+MAT 511 - Advanced Calculus
+MAT 512 - Introduction to Real Analysis II
+MAT 513 - Introduction to Complex Analysis
+MAT 562 - Elementary Topology
+Applied Mathematics:
+Any two courses chosen from
+MAT 517 - Partial Differential Equations and Fourier Series
+MAT 518 - Fourier Series, Transforms and Wavelets
+MAT 532 - Applied Linear Algebra
+MAT 581 - Numerical Methods with Programming
+Differential Equations:
+MAT 414 - Introduction to Ordinary Differential Equations
+MAT 517 - Partial Differential Equations and Fourier Series
+Geometry:
+MAT 531 - Second Course in Linear Algebra
+MAT 551 - Fundamental Concepts of Geometry
+or
+MAT 531 - Second Course in Linear Algebra
+MAT 554 - Differential Geometry
+Probability and Statistics:
+MAT 521 - Introduction to Probability
+MAT 525 - Mathematical Statistics
+or
+MAT 521 - Introduction to Probability
+MAT 526 - Introduction to Stochastic Processes
+Note:
+A student who takes MAT 485 instead of MAT 331 may not use the differential equations sequence to satisfy minor requirements.
+A student who has completed the minor requirements stated above but does not have 15 credits of SU coursework toward the minor may use an additional SU course toward the minor. This additional course must be either an upper-level MAT course, or an SU course that has MAT 296 (or a higher-numbered mathematics course) as a prerequisite.
+

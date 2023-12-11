@@ -1,0 +1,111 @@
+Computer Engineering, BS
+Program Director
+Jennifer Graham
+
+315-443-2652
+
+eecsugradadmit@syr.edu
+Description
+The Bachelor of Science in Computer Engineering (BSCE) program at Syracuse was originally established in 1969 through the former Department of Electrical Engineering and was the second such program of its kind in the nation. This program has been accredited by the Accreditation Board for Engineering and Technology (ABET) since 1973. Currently the BSCE program is housed in the Department of Electrical Engineering and Computer Science (EECS) which is a department in the College of Engineering and Computer Science (E&CS).
+Computer Engineering (CE) at Syracuse University has two primary foci: Computer Hardware Design: including an understanding of design methodologies for electronic circuits, digital systems, computer architecture and integrated circuits, and Computer Software Design: including an understanding of design methodologies for algorithms and data structures, operating systems, and a wide variety of software applications across various computer languages. In addition to design methodologies, test and verification principles are studied, as well as performance estimation and the underlying computation theory. There is an excellent opportunity in laboratories to put the theory and design methods into practice by using digital components, design simulators, and microcontrollers.
+Part of the department’s mission is to enable CE graduates to use computer engineering and other knowledge to solve relevant societal problems as described by the BSCE Educational Objectives. This is accomplished by a rigorous curriculum that prepares students to achieve the BSCE Educational Outcomes prior to graduation and the BSCE Educational Objectives after graduation.
+Educational Objectives for the BSCE Program
+The educational objective of the Bachelor of Science in Computer Engineering (BSCE) program in the Department of Electrical Engineering and Computer Science (EECS) at Syracuse University is to prepare well-rounded graduates that are ready for work and ready for change.
+Well-rounded graduates of the BSCE program are known by their professional competence, innovative thinking, willingness to further enhance their education, ability to work individually and in diverse teams, leadership abilities, communication skills, and integrity.
+Graduates of the BSCE program who are ready for work are engaged in applying the knowledge acquired in Computer Engineering, combined with their problem solving abilities, to produce feasible solutions to problems, in a timely manner, which are deemed important in industry, government, or academia.
+Graduates of the BSCE program who are ready for change exhibit the intellectual flexibility necessary to solve new problems in innovative ways by integrating multiple viewpoints from several disciplines in search of the best possible solutions or applying their knowledge to different professional disciplines.
+This program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org
+Student Learning Outcomes
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+3. An ability to communicate effectively with a range of audiences
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+BSCE Requirements
+Program Components
+The BSCE program has four fundamental educational components: mathematics and sciences, engineering, social sciences and humanities, and general education. A liberal number of courses have been set-aside as electives in order to allow students, with the guidance of their advisors, to customize their education according to their personal and career objectives. A summary of required and elective credits within each component is as follows:
+Math and Science Education:
+33 required, 0 elective; for a total of 33 credits;
+Engineering Education:
+50 required, 18 elective; for a total of 68 credits;
+General Education:
+9 required, 9 elective; for a total of 18 credits;
+Social Science and Humanities Education:
+4 required, 6 elective; for a total of 10 credits.
+Total Credits 129
+A Typical Program of Study Presented by Semester
+First Year, Fall Semester
+ECS 101 - Introduction to Engineering and Computer Science
+CIS 151 - Fundamentals of Computing and Programming
+MAT 295 - Calculus I
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+Total Credits: 18
+First Year, Spring Semester
+CSE 283 - Introduction to Object-Oriented Design
+MAT 296 - Calculus II
+PHI 251 - Logic
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+SSH elective 3 credits
+Total Credits: 17
+Second Year, Fall Semester
+CIS 375 - Introduction to Discrete Mathematics
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+CIS 351 - Data Structures
+CSE 389 - Web System Architecture and Programming
+ELE 251 - Fundamentals of Linear Systems
+ELE 292 - Linear Systems Laboratory
+Arts and Science Elective (3)
+Total Credits: 16
+Second Year, Spring Semester
+CSE 261 - Digital Logic Design
+CSE 262 - Digital Logic Design Laboratory
+CSE 384 - Systems and Network Programming
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+MAT 331 - First Course in Linear Algebra
+Total Credits: 17
+Third Year, Fall Semester
+CSE 381 - Computer Architecture
+CSE 397 - Microcontroller Laboratory
+CSE 484 - Introduction to Computer and Network Security
+CSE 464 - Introduction to VLSI Design
+ECS 392 - Ethical Aspects of Engineering and Computer Science
+Total Credits: 15
+Third Year, Spring Semester
+CIS 321 - Introduction to Probability and Statistics
+CSE 398 - Embedded and Mobile Systems Laboratory
+CSE 486 - Design of Operating Systems
+WRT 307 - Advanced Writing Studio: Professional Writing
+Technical Electives 3 credits
+Total Credits: 16
+Fourth Year, Fall Semester
+CSE 491 - Senior Design Project I
+Technical electives 9 credits
+Arts and Science Electives 3 credits
+Total Credits: 15
+Fourth Year, Spring Semester
+CSE 492 - Senior Design Project II
+Technical electives 6 credits
+SSH Elective 3 credits
+Arts and Science Elective 3 credits
+Total Credits: 15
+Total Credits: 129
+Note:
+*CIS 321 can be waived if a student takes both MAT 521 and MAT 525.
+ General Information
+Note that CPS courses cannot be taken to fulfill any of the requirements for the Computer Engineering undergraduate program. These courses are designed for non-majors in Computer Engineering or in Computer Science.
+Elective Courses
+Technical Electives
+Students are required to 18 credits of upper division electives with the ELE, CSE, or CIS prefix.  A minimum of 9 credits from courses with a prefix of CSE and a minimum of 6 credit hours must be 400 level or higher.
+Social Sciences and Humanities Electives
+This 6-credit requirement may be fulfilled by any combination of courses whose contents are in the social science and humanities area. A glossary of course designations with such contents can be found in the Humanities Division and the Social Sciences Division of the College of Arts and Sciences with the exception of the following Anthropology - Physical courses: ANT 131, 331, ANT 431, 432, and ANT 433. These glossaries are given in The College of Arts and Sciences section of the Undergraduate Catalog.
+Minors
+The Computer Engineering curriculum is flexible enough to allow a student to complete minors without taking additional credits or by taking only a few extra courses. Today’s computer engineers work in an environment where they are expected to know not only computer hardware and software, but also material from a collection of other subject areas-from device technology or computer science to management and how computers affect the world. The computer engineering curriculum responds to this need by providing students with a strong basis in the fundamentals of computer engineering coupled with additional courses drawn from mathematics, electrical engineering and computer science. With the core courses in MAT, BSCE students normally are no more than 9 credits away from completing a minor in Mathematics (MAT).
+
