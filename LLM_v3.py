@@ -9,6 +9,39 @@ import constants
 
 chat = ChatOpenAI(model="gpt-3.5-turbo-1106", openai_api_key = constants.API_KEY)
 
-file = open('test.json', 'a+')
+from langchain_core.messages import AIMessage, HumanMessage
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 
-print(chat.generate(messages=[BaseMessage(Serializable("hello"))]))
+# prompt = ChatPromptTemplate.from_messages(
+#     [
+#         (
+#             "system",
+#             "You are a helpful assistant. Answer all questions to the best of your ability.",
+#         ),
+#         MessagesPlaceholder(variable_name="messages"),
+#     ]
+# )
+
+# chain = prompt | chat
+
+# chain.invoke(
+#     {
+#         "messages": [
+#             HumanMessage(
+#                 content="Translate this sentence from English to French: I love programming."
+#             ),
+#             AIMessage(content="J'adore la programmation."),
+#             HumanMessage(content="What did you just say?"),
+#         ],
+#     }
+# )
+
+
+
+while True:
+    human = input("Does Teddy have a Gyat: \n")
+    print(chat.generate([[HumanMessage(human)]]).generations.pop().pop().text)
+
+
+
+
