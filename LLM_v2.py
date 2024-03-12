@@ -23,6 +23,7 @@ for num in range(365):
     file_name = f'major_data/major_data_{num}.txt'
     loaders.append(TextLoader(file_name))
 
+
 index = Chroma(embedding_function=openai)#.from_texts(texts=loaders, embedding=openai)#from_loaders(loaders=loaders)
 print(type(index))
 
