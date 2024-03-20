@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.nn import functional as F
-import tokenizer as t
+import Old.tokenizer as t
 import random
 #for reproducability
 torch.manual_seed(0)

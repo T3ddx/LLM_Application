@@ -1,0 +1,140 @@
+Mechanical Engineering, BS
+Department Chair:
+Dr. Young Bai Moon, 263 Link Hall, ybmoon@syr.edu, 315-443-2341
+Program Director:
+Dr. Michelle Blum, 239 Link Hall, mmblum@syr.edu, 315-443-2840
+Faculty
+Jeongmin Ahn, Benjamin Akih-Kumgeh, Jackie Anderson, Michelle Blum, Edward Bogucz, John Dannenhoffer, Alexander Deyhim, Bing Dong, Victor Duenas, Matthew Erdman, Zhenyu Gan, Kasey Laurent, Xiyuan Liu, Aoyi Luo, Shalabh Maroo, Young Moon, Anupam Pandey, Quinn Qiao, Utpal Roy, Amit Sanyal, Mehmet Sarimurat, Roger Schmidt, Wanliang Shan, Ian Shapiro, Yiyang Sun, Yeqing Wang, Jianshun Zhang, Teng Zhang, Fernando Zigunov
+The mission of the mechanical engineering program at Syracuse University is to educate and promote learning and discovery in mechanical engineering and to prepare students for careers of technical excellence, professional growth, and leadership in a complex and competitive technological environment.
+The educational objectives of the mechanical engineering curriculum are to enable graduates of the program to do the following:
+apply the physical, mathematical, and engineering sciences to professiona or to advanced study in mechanical engineering or related fields;
+be cognizant of societal context and ethical responsibility in their profession;
+function inclusively and productively on teams and communicate ideas to both technical and non-technical audiences; and
+be innovative and adaptable in a diverse and global environment
+In order to meet the demands of new and existing high-tech industries, we prepare our students by providing opportunities to gain marketable and relevant skills that can lead to success in a wide range of careers. The distinctive signature of undergraduate mechanical engineering at Syracuse University is its strong technical core coupled with the ability to fit either a technical or a non-technical minor into the curricula. Students explore the breadth of Syracuse University by complementing their mechanical engineering degree with a minor in business, public policy, fine arts, public communications, and many more.
+Mechanical engineering is a broad discipline concerned with the design and analysis of systems that produce or modify motion, force, and energy into forms useful to people. Mechanical engineers are employed throughout the complete spectrum of industries, including automotive, industrial machinery, publishing and printing, electrical and thermal power, chemical processing, textile, petroleum, computer and electronic, pharmaceutical, apparel, healthcare, consumer products, soap and cosmetics, paper and wood products, rubber, and glass.
+Driven by the breadth of career paths open to mechanical engineering graduates, the B.S. program in mechanical engineering (MEE) is structured to provide a firm educational foundation in the physical, mathematical, and engineering principles and design practices relevant to mechanical and thermal systems. The program is designed to prepare graduates for either immediate employment or for continuing studies at the graduate level.
+Requirements for the B.S. MEE program appear below. For the first five semesters the recommended sequence of courses for the B.S. MEE program is very similar to the recommended program for the degree B.S. in aerospace engineering (AEE), which demonstrates the complementary nature of the two disciplines. Courses carrying the prefix MAE indicate that class material and assignments are drawn from both aerospace and mechanical engineering applications.
+Beginning in the sixth semester students who follow the B.S. MEE program begin to take courses addressing engineering topics unique to mechanical engineering, including machine design and manufacturing and heat transfer. The last three semesters of the MEE program also include courses of more broad applications, including dynamics of mechanical systems and linear control systems.
+Experience with open-ended design problems is obtained in a sequence of courses that span the entire curriculum. The sequence begins with introductory design experiences in the first-year courses ECS 101.
+Upper-division courses involving design include courses in machine design and manufacturing, and senior capstone design. The two-semester capstone design experience (MEE 471, MEE 472) requires students to integrate knowledge from all areas in the design of a complete product or system.
+The B.S. MEE curriculum allows for programs of study that can be tailored by students to take advantage of the diversity of strengths across both ECS and all of Syracuse University. We provide engineering students with opportunities to complete minors in areas that can complement technical knowledge-such as international affairs, business, and public policy-thus enhancing the value and attractiveness of a Syracuse University engineering education. Students elect to pursue a University minor or take a distribution of electives, which will include liberal arts classes, free electives, and additional depth in mechanical engineering. There are a total of 11 electives or selective elective courses (33 credits) in the B.S. MEE program. The University requires all students to take at least one course (3 credits) in the broad areas of Inclusion, Diversity, Equity, and Accessibility (IDEA). The list of approved I.D.E.A. courses can be found in the course catalog. One of the electives (3 credits) must be in economics; which must be either ECN 101, ECN 102, or ECN 203. One of the electives (3 credits) must be in Social Sciences/Humanities (SS/H). One of the electives (3 credits) must be a MAE numerical elective; which must be either MAE 530, MAE 571, or MAE 573. One of the electives must be a MAE analysis elective; which must be either MAE 333 or MAE 312. The remaining 6 courses (18 credits) can be customized for each student in either of two ways:
+A University Minor, typically 18 credits coordinated by the offering department. The minor must have fewer than 12 credits of overlap with required MEE courses. A second major also satisfies this option.
+A Distribution of Electives, including:
+at least 6 credits of SS/H
+at least 9 credits of technical electives
+one 3-credit free elective
+MEE students seeking to complete a Mathematics Minor may take a mathematics course as a free elective but must still complete one of the 2 options listed above.
+MEE students seeking to complete the Energy Systems Minor (15 credits) must take an additional 3-credit SS/H course.
+Technical Electives are courses at the 300 level or higher taken within the Mechanical and Aerospace Engineering (MAE) Department. Selected courses from other ECS departments, mathematics, or natural sciences may be accepted as technical electives, but no more than 3 credit hours of technical electives can be taken outside the MAE department.
+Students may bundle courses into free electives if desired. The bundled courses must be taken for a letter grade, and either be at the 300-level or greater, or be a physical education course. AEW credit cannot be bundled.
+Social science or humanities (SS/H) courses are to be selected from any foreign language course, the “Humanities List”, or the “Social Sciences List”, as published in the SU Course Catalog.
+To earn a Mechanical Engineering B.S. degree from Syracuse University, students must take 60% of the (26) Engineering and (45) Mechanical Engineering credits, which means that students must take at least 43 credits at Syracuse University. Engineering and Mechanical Engineering credits are courses with the following prefixes: ECS, ELE, MAE, MEE.
+Students are strongly encouraged to develop a plan for selections of their electives during their first year. The planning process should include discussions with the student’s academic advisor, other faculty members, and peer advisers. The MAE department offers most undergraduate technical elective courses on a two-year cycle. As a result, it may be necessary for a student to modify the sequence of courses recommended below to accommodate a technical elective course of personal interest.
+In addition to successfully completing the requirements for the mechanical engineering program, graduates from this program must also achieve the following student outcomes:
+Student Learning Outcomes
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+3. An ability to communicate effectively with a range of audiences
+4. An ability to recognize the ethical and professional responsibilities in engineering situations and make informed judgements, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgement to draw conclusions
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+8. An ability to apply advanced mathematics and advanced numerical methods to formulate, and to solve complex engineering problems
+
+This program is accredited by Engineering Accreditation Commission of ABET, http://www.abet.org.
+Mechanical Engineering Requirements
+First Year, Fall Semester
+ECS 101 - Introduction to Engineering and Computer Science
+MAT 295 - Calculus I
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+Elective #1: Students choose one of the following: ECN 101, ECN 102, or ECN 203 
+Total 18
+First Year, Spring Semester
+ECS 104 - Engineering Computational Tools
+MAT 296 - Calculus II
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+Elective #2 (I.D.E.A. Course) (3)
+Total 17
+Second Year, Fall Semester
+ECS 326 - Engineering Materials, Properties, and Processing
+MAT 397 - Calculus III
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+ECS 221 - Statics
+Elective #3 (SS/H Course) (3)
+Total 17
+Second Year, Spring Semester
+MAT 485 - Differential Equations and Matrix Algebra for Engineers
+ECS 222 - Dynamics
+ECS 325 - Mechanics of Solids
+MAE 251 - Thermodynamics
+MAE 284 - Introduction to CAD
+Total 16
+Third Year, Fall Semester
+ELE 231 - Electrical Engineering Fundamentals
+ELE 291 - Electrical Engineering Laboratory I
+MAE 315 - Mechanical and Aerospace Engineering Laboratory
+MAE 341 - Fluid Mechanics
+Elective #4 (Analysis Course): Student chooses one of the following:
+MAE 312 - Engineering Analysis
+Or
+MAE 333 - Data Analysis for Engineers
+Elective #5 (3)
+Total 17
+Third Year, Spring Semester
+MAE 321 - Dynamics of Mechanical Systems
+MAE 322 - Control Systems for MAE
+MAE 355 - Fundamentals of Heat Transfer
+MEE 332 - Machine Design
+Elective #6 (3)
+Total 16
+Fourth Year, Fall Semester
+MEE 416 - Mechanical Engineering Laboratory
+MEE 431 - Manufacturing Processes
+MEE 471 - Design Practice
+Elective #7: Must be either MAE 530, MAE 571, or MAE 573 
+Elective #8 (3)
+Total 15
+Fourth Year, Spring Semester
+MEE 472 - Synthesis of Mechanical Systems
+Elective #9 (3)
+Elective #10 (3)
+Elective #11 (3)
+Total 12
+Total 128
+Other
+GPA: 2.0 (All students must earn a minimum cumulative GPA of 2.00 and at least 2.00 GPA in all math, science and engineering courses in order to be awarded an SU degree.)
+Note:
+Do not repeat prerequisites for admission into the major.
+Recommended Technical Electives
+AEE 342 - Aerodynamics
+AEE 343 - Compressible Flow
+AEE 427 - Aircraft Performance and Dynamics
+AEE 446 - Air-breathing and Rocket Propulsion
+AEE 577 - Introduction to Space Flight
+ECS 511 - Sustainable Manufacturing
+ECS 526 - Statistics for Engineers
+MAE 457 - Automotive Engineering for ECS Students
+MAE 486 - Fuel Cell Science and Technology
+MAE 536 - Composite Materials
+MAE 545 - Applications of Fluid Mechanics
+MAE 548 - Engineering Economics and Technology Valuation
+MAE 551 - Energy Conversion
+MAE 553 - HVAC Systems Analysis and Design
+MAE 554 - Principles of Refrigeration
+MAE 571 - Applications of Computational Fluid Dynamics
+MAE 573 - Application of Finite Element Analysis
+MAE 585 - Principles of Turbomachines
+MAE 587 - Design of Solar Energy System
+MAE 588 - Principles of Wind Turbines
+MEE 571 - Computer Aided Design
+MFE 326 - Probability and Statistical Methods for Engineers
+NUC 301 - Introduction to Nuclear Engineering and Reactor Safety
+NUC 510 - Nuclear Reactor Design, Operation and Safety
+

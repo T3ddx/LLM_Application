@@ -1,0 +1,121 @@
+Aerospace Engineering, BS
+Department Chair:
+Dr. Young Bai Moon, 263 Link Hall, ybmoon@sy.edu, 315-443-2341
+Program Director:
+Ben Akih-Kumgeh, AE Program Director, 315-443-2335, bakihkum@syr.edu
+Faculty
+Jeongmin Ahn, Benjamin Akih-Kumgeh, Jackie Anderson, Michelle Blum, Edward Bogucz, John Dannenhoffer, Alexander Deyhim, Bing Dong, Victor Duenas, Matthew Erdman, Zhenyu Gan, Kasey Laurent, Xiyuan Liu, Aoyi Luo, Shalabh Maroo, Young Moon, Anupam Pandey, Quinn Qiao, Utpal Roy, Amit Sanyal, Mehmet Sarimurat, Roger Schmidt, Wanliang Shan, Ian Shapiro, Yiyang Sun, Yeqing Wang, Jianshun Zhang, Teng Zhang, Fernando Zigunov
+The mission of the aerospace engineering program at Syracuse University is to educate and to promote learning and discovery in aerospace engineering and to prepare students for a career of technical excellence and professional growth and leadership in a complex and competitive technological environment.
+The program educational objectives of the aerospace engineering curriculum are to enable graduates of the program to do the following:
+apply the physical, mathematical, and engineering sciences to professional practice or to advanced study in aerospace engineering or related fields;
+be cognizant of societal context and ethical responsibility in professional practice;
+function productively on teams and communicate ideas to both technical and non-technical audiences; and
+be agile, innovative, and adaptable in an increasingly diverse and global environment.
+Opportunities for aerospace engineers will continue to expand within the military, civilian, and general aviation sectors spurred on by the development of new aircraft that extends to civilian supersonic aircraft and unmanned aerial vehicles. This growth in aircraft demand (as well as the need for higher efficiencies, longer ranges, and lower cost aircraft) is being fueled by the increasing global demand for air travel in the international marketplace. Space exploration has also entered a period of increased activity, both in governmental and commercial organizations that includes an increased exploitation of satellites to service the demand for global communication, the need for low-cost assured access to space, the international space station, and planetary missions.
+We prepare our students for this changing environment by providing an opportunity to gain marketable and relevant skills that can lead to success in a wide range of careers. The distinctive signature of undergraduate aerospace engineering at Syracuse University is the ability to fit a minor into the curriculum.
+The technical focus of the B.S. program in aerospace engineering (AEE) is to develop a sound educational basis for the analysis and design of aerospace systems, with emphasis on the structure, aerodynamics, flight/orbital mechanics, and propulsion of aircraft and spacecraft systems. Aerospace engineering is a field constantly pushing the limits of technology. The B.S. AEE program stresses the fundamental physical, mathematical, and engineering principles that form the broadest base for future work in a fast-changing field.
+The B.S. AEE program is designed to prepare graduates for either immediate employment or for continuing studies at the graduate level. One distinguishing feature of the program is the opportunity for undergraduate students to participate in current research projects, which provide first-hand exposure both to advanced topics of current interest and to challenges typical of graduate school or industrial research. Research experiences for undergraduates are available in many areas, including fluid dynamics, aerodynamics, solid mechanics, and applications of high-performance computers.
+Requirements for the B.S. AEE program appear below. For the first five semesters the recommended sequence of courses for the B.S. AEE program is nearly identical to the recommended program for the B.S. degree in mechanical engineering (MEE), which demonstrates the similarity and complementary nature of the two disciplines. Courses carrying the prefix MAE indicate class material and assignments are drawn from both aerospace and mechanical engineering applications. Beginning in the sixth semester, students in the B.S. AEE program begin taking courses addressing topics unique to aerospace engineering, including aerodynamics, aircraft structures, propulsion systems, and the dynamics of aerospace vehicles.
+Experience with open-ended design problems is obtained in a sequence of courses that span the entire curriculum. The sequence begins with introductory design experience in the first-year courses ECS 101 and the second-year course MAE 284.  Upper-division courses involving design content include classes on aerospace structures AEE 471, aerospace vehicle dynamics, AEE 427, aerodynamics AEE 332, and propulsion AEE 446. The design sequence culminates with the cap-stone design experience (AEE 472) that requires students to integrate knowledge from all areas in the design of a complete aircraft or spacecraft system.
+Topics relevant to the analysis and design of space vehicles are included in AEE 446, AEE 471, and AEE 577.
+The B.S. AEE curriculum allows for programs of study that can be tailored by students to take advantage of the diversity of strengths across both ECS and all of Syracuse University. We provide engineering students with opportunities to complete minors in areas that can complement technical knowledge-such as international affairs, business, and public policy-thus enhancing the value and attractiveness of a Syracuse engineering education. Students can also elect to pursue a technical minor or take a distribution of electives, which will include liberal arts classes, free electives, and additional depth in aerospace engineering.
+Students are encouraged to develop a plan for elective selection during their first year. The planning process should include discussions with the student’s academic advisor, other faculty members, and peer advisors. The MAE Department offers most undergraduate technical elective courses on a two-year cycle. It may be necessary for a student to modify the sequence of courses to accommodate a technical elective course of personal interest.
+In addition to successfully completing the requirements for the aerospace program, graduates from this program must also achieve the following student outcomes:
+Student Learning Outcomes
+An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+An ability to communicate effectively with a range of audiences.
+An ability to recognize the ethical and professional responsibilities in engineering situations and make informed judgements, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgement to draw conclusions.
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+An ability to apply knowledge of aerodynamics, structures, propulsion, flight mechanics and orbital mechanics in the analysis of aerospace vehicles.
+This program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+B.S. AEE Program
+There are a total of 24 elective credits in the B.S. AEE program. These credits may be distributed in one of the following two ways:
+A student may complete any University minor or a second major that requires at least 12 credit hours beyond the core AEE curriculum. In addition to, or as part of, this minor or second major, at least 9 credit hours must be taken from the social sciences or humanities (SS/H). Excluding those courses that count towards the minor or second major, a maximum of 6 credit hours that are neither SS/H nor technical electives may be taken as part of the 24 elective credits.
+A student who does not complete a University minor or second major must take at least 9 credits from the social sciences or humanities (SS/H), at least 6 credits of technical electives, and a maximum of 6 credit hours that are neither SS/H nor technical electives.
+Technical electives consist of all 300 level and above courses offered by any department within the college of engineering and computer science or by the math or physics departments, except for ECS 391, ECS 392 and any course numbered 300, 400 or 500 that is offered outside of the MAE Department. However, in some instances these courses may be approved by petition. In addition, no more than 3 credit hours of technical electives may be taken outside of the MAE department.
+Many technical electives in the MAE Department are scheduled on a 2-year rotation, so students should make themselves aware of technical elective offerings starting in their third year.
+The elective credits that are neither SS/H nor technical electives can be comprised of credits taken from any of the following: (1) courses taken for a letter grade, (2) courses at either 300-level or greater, and/or (3) courses offered by the physical education department.
+Social Science or Humanities (SS/H) courses are to be taken from the “Humanities List,” the “Social Science List,” or any foreign language course.
+The IDEA course is to be selected from the “IDEA list.”
+Aerospace Engineering Requirements
+First Year, Fall Semester
+ECS 101 - Introduction to Engineering and Computer Science
+MAT 295 - Calculus I
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+Elective #1 (IDEA Course) (3)
+Total 18
+First Year, Spring Semester
+ECS 104 - Engineering Computational Tools
+MAT 296 - Calculus II
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+Elective #2 (3)
+Total 17
+Second Year, Fall Semester
+ECS 221 - Statics
+ECS 326 - Engineering Materials, Properties, and Processing
+MAT 397 - Calculus III
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+Elective #3 (3)
+Total 17
+Second Year, Spring Semester
+MAE 251 - Thermodynamics
+MAE 284 - Introduction to CAD
+ECS 222 - Dynamics
+ECS 325 - Mechanics of Solids
+MAT 485 - Differential Equations and Matrix Algebra for Engineers
+Total 16
+Third Year, Fall Semester
+ELE 231 - Electrical Engineering Fundamentals
+ELE 291 - Electrical Engineering Laboratory I
+MAE 315 - Mechanical and Aerospace Engineering Laboratory
+MAE 341 - Fluid Mechanics
+MAE 312 - Engineering Analysis
+Or
+MAE 333 - Data Analysis for Engineers
+Elective #4 (3)
+Total 17
+Third Year, Spring Semester
+AEE 342 - Aerodynamics
+AEE 343 - Compressible Flow
+AEE 471 - Design/Analysis of Aerospace Structure
+MAE 321 - Dynamics of Mechanical Systems
+Elective #5 (3)
+Total 17
+Fourth Year, Fall Semester
+AEE 427 - Aircraft Performance and Dynamics
+AEE 446 - Air-breathing and Rocket Propulsion
+AEE 577 - Introduction to Space Flight
+Elective #6 (3)
+Total 13
+Fourth Year, Spring Semester
+AEE 472 - Synth of Aerosp Systems
+MAE 322 - Control Systems for MAE
+Elective #7 (3)
+Elective #8 (3)
+Total 13
+Program Total 128
+Other
+GPA: 2.0 (All students must earn a minimum cumulative GPA of 2.00 and at least 2.00 GPA in all math, science, and engineering courses in order to be awarded an SU degree.)
+Note:
+Do not repeat prerequisites for admission into the major.
+Recommended Technical Electives
+AEE 490 - Independent Study
+AEE 527 - Helicopter Dynamics
+MAE 355 - Fundamentals of Heat Transfer
+MAE 536 - Composite Materials
+MAE 545 - Applications of Fluid Mechanics
+MAE 571 - Applications of Computational Fluid Dynamics
+MAE 573 - Application of Finite Element Analysis
+MAE 585 - Principles of Turbomachines
+MAE 587 - Design of Solar Energy System
+MAE 588 - Principles of Wind Turbines
+

@@ -1,0 +1,19 @@
+Computer Engineering Minor
+Minor Coordinator
+Jennifer Graham
+
+eecsugradadmit@syr.edu
+The minor in Computer Engineering requires 19 credit hours of coursework including 10 credit hours of required courses, 6 credit hours selected from a group of 5 courses, and 3 credit hours of junior- or senior-level elective courses offered by the computer engineering program.  
+The minor in computer engineering must include the following courses (10 credit hours):
+CSE 283 - Introduction to Object-Oriented Design
+CSE 261 - Digital Logic Design
+CSE 262 - Digital Logic Design Laboratory
+CIS 351 - Data Structures
+The minor in computer engineering must also include 2 of the following 5 courses (6 credit hours):
+CSE 381 - Computer Architecture
+CSE 384 - Systems and Network Programming
+CSE 397 - Microcontroller Laboratory
+CSE 464 - Introduction to VLSI Design
+CSE 486 - Design of Operating Systems
+The minor in computer engineering also includes any other CSE course 300 level or higher (3 credit hours)
+

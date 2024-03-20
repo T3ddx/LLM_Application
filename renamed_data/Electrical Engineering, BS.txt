@@ -1,0 +1,108 @@
+Electrical Engineering, BS
+Program Director
+Jennifer Graham
+315-443-4416
+eecsugradadmit@syr.edu
+The mission of the electrical engineering program is to promote learning in electrical engineering through integrated activities in teaching, research, scholarship, creative accomplishments, and service.
+The educational objective of the bachelor of science in electrical engineering (BSEE) program in the Department of EECS at Syracuse University is to prepare well-rounded graduates that are ready for work and ready for change.
+Well-rounded graduates of the BSEE program are known by their professional competence, innovative thinking, ability to work individually and in diverse teams, leadership abilities, communication skills, and integrity.
+Graduates of the BSEE program who are ready for work are engaged in applying the knowledge acquired in their major, combined with their problem solving abilities, to produce feasible solutions to problems, in a timely manner, which are deemed important in industry, government, or academia.
+Graduates of the BSEE program who are ready for change exhibit the intellectual flexibility necessary to solve new problems in innovative ways by integrating multiple viewpoints from several disciplines in search of the best possible solutions, or applying their knowledge to different professional disciplines.
+Electrical engineering is based on scientific principles governing the motion of charged particles through conductors, semiconductors, or even a vacuum. These phenomena can be harnessed in a variety of applications such as in the treatment of disease, wireless, satellite, and computer communications, power transmission, control of robots, radio and television broadcasting, and development of microelectronics for computers and analog circuits.
+This program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+Engineering design is taught in each of the four years of the electrical engineering program. Beginning with ECS 101 in the first year, students are required to formulate solutions to a variety of open-ended laboratory projects. As the students progress through their sophomore and junior years, the projects increase in complexity requiring additional creativity and knowledge. Finally, in the senior year the students are required to complete a major design project that builds upon their mastery of the fundamental concepts of mathematics, basic sciences, the humanities and social sciences, engineering topics, and communication skills.
+Student Learning Outcomes
+Througouth the undergraduate program in electrical engineering, students will develop:
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+3. An ability to communicate effectively with a range of audiences
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+7.  An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+Program Components
+The electrical engineering program has five fundamental components: mathematics and sciences, engineering, computing, social sciences and humanities, and general education. Within each component, a number of courses have been set aside as electives in order to allow students, with the guidance of their advisors, to customize their education according to personal and career objectives. A summary of required and elective credits within each component follows:
+Mathematics and Science
+31 required, 3 elective, 34 total credits;
+Engineering
+43 required, 18 elective, 61 total credits;
+Computing
+9 required
+Social Science and Humanities
+3 required, 6 elective, 9 total credits;
+General Education
+1 required FYS, 9 required writing, 6 arts and science electives, 16 total credits;
+Overall
+96 required, 33 elective, 129 total credits.
+Elective Courses
+In order to maximize the flexibility of the Electrical Engineering curriculum while maintaining its structure, electives have been divided into the following categories:
+Technical Electives
+This 18-credit requirement may be fulfilled by any combination of upper division electives with the ELE, CSE, or CIS prefix.  A minimum of 9 credits from courses with a prefix of ELE and a minimum of 6 credit hours must be 400 level or higher.
+Mathematics and Sciences Elective
+The 3-credit elective may be fulfilled by any mathematics course with a calculus prerequisite, any physics course with a calculus-based physics prerequisite, or any college-level course in other science departments. By taking an appropriate math course, EE students can use this elective to complete a minor in mathematics.
+Social Sciences and Humanities Electives
+This 6-credit requirement may be fulfilled by any combination of courses listed in the social sciences division or humanities division of the College of Arts and Sciences. A glossary of course designations with such contents can be found in the Humanities Division and the Social Sciences Division of the College of Arts and Sciences.
+Arts and Science Electives
+This 6-credit requirement may be fulfilled by any course with liberal arts content including most courses in the College of Arts and Sciences. These courses, either by themselves or in combination with social sciences and humanities electives and free electives, present a very attractive opportunity to complete one of the non-technical minors offered in the University.
+Program of Study
+First Year, Fall Semester (18)
+ECS 101 - Introduction to Engineering and Computer Science
+CIS 151 - Fundamentals of Computing and Programming
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+MAT 295 - Calculus I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+First Year, Spring Semester (15)
+MAT 296 - Calculus II
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+ELE 231 - Electrical Engineering Fundamentals
+ELE 291 - Electrical Engineering Laboratory I
+SSH Elective (3)
+Second Year, Fall Semester (15)
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+MAT 397 - Calculus III
+ELE 251 - Fundamentals of Linear Systems
+ELE 292 - Linear Systems Laboratory
+CSE 283 - Introduction to Object-Oriented Design
+Second Year, Spring Semester (16)
+MAT 485 - Differential Equations and Matrix Algebra for Engineers
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+CSE 261 - Digital Logic Design
+CSE 262 - Digital Logic Design Laboratory
+CSE 384 - Systems and Network Programming
+SSH Elective (3)
+Third Year, Fall Semester (17)
+ELE 314 - Power Engineering
+ELE 324 - Electromagnetics
+ELE 351 - System and Signal Analysis
+CSE 397 - Microcontroller Laboratory
+CIS 321 - Introduction to Probability and Statistics
+Third Year, Spring Semester (18)
+ELE 333 - Analog Electronics
+ELE 354 - Communication Systems
+ELE 392 - Digital Signal Processing and Control Systems Laboratory
+WRT 307 - Advanced Writing Studio: Professional Writing
+Technical Elective (6)
+ Fourth Year, Fall Semester (15)
+ELE 491 - Senior Design Project I
+ECS 392 - Ethical Aspects of Engineering and Computer Science
+Technical elective (6)
+Arts and Science Elective (3)
+Fourth Year, Spring Semester (15)
+ELE 492 - Senior Design Project II
+Technical elective (6)
+Math/Science elective (3)
+Arts and Science Elective (3)
+Total 129
+Minors
+The electrical engineering curriculum is flexible enough to allow a student to complete minors of interest. Today’s engineers work in an environment where they are expected to know not only their specialty areas, but also a collection of other subject areas-from computers to finance. The EE curriculum responds to this need by providing students with a strong basis in the fundamentals of electrical engineering, coupled with an opportunity to broaden the scope of their education. An electrical engineering student may complete one or all of the following types of minors within the normal limits of the curriculum.
+Engineering and computer science minor
+A student who wishes to complete a technical minor offered by the college has up to 21 credits of electives distributed from the second year through the fourth year. Eighteen of those credits are labeled as technical electives in the BSEE curriculum. Within the constraints of the technical electives they may be used to fulfill a technical minor offered by the college.
+Non-technical minor
+A student who would like to complete a non-technical minor has 12 credits of combined social sciences and humanities and arts and science electives, which can be used toward any one of more than 70 minors offered at Syracuse University.
+Minor in mathematics
+Electrical engineering curriculum requires students to take 18 credits of courses from the mathematics department. With the 3-credit mathematics and sciences elective course also taken appropriately from that department, a minor in mathematics can be earned.
+

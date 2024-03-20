@@ -1,0 +1,161 @@
+Innovation, Society and Technology, BS
+Contact:
+Bruce Kingma, Professor of Entrepreneurship
+Program Director
+(315) 443-2911
+iundergrad@syr.edu
+  Website:
+https://ischool.syr.edu/academics/innovation-society-and-technology-bachelors-degree/
+Introduction:
+The School of Information Studies offers a bachelor of science degree (B.S.) in Innovation, Society, and Technology.  This program is for students interested in research, innovation, and social justice in the impact of technology in society.
+ The recent article, “A Crisis of Ethics in Technology Innovation”, MIT Sloan Management Review, March 2020 demonstrates the need for individuals with a background in ethics and social justice in the information technology industry. This degree program satisfies student demand at the Syracuse University School of Information Studies (iSchool) for a general program in information studies that provides research-focused students the opportunity to gain expertise in the modern impact and societal challenges of information technology.
+Students in this program will receive coursework in information studies, information innovation, information technology, and information in society.  Graduates may continue their studies in a graduate program or provide expertise in the societal impacts of technology at an organization.
+Student Learning Outcomes
+In addition to the comprehensive iSchool Bachelor of Science learning outcomes students are expected to achieve in the course of earning their Bachelor’s degree, students in the Innovation, Society and Technology major at the iSchool are also expected to achieve the following learning outcomes:
+Employ critical thinking skills in identifying, evaluating, and designing innovative practices in the age of digital transformation.
+Examine and critique how individuals, organizations and society are created and impacted by data and information technology in the age of digital transformation.
+
+iSchool Bachelor of Science Degree Requirements- Innovation, Society and Technology
+The B.S. degree in Innovation, Society and Technology requires 120 credits, distributed as indicated below.
+Innovation, Society and Technology Curriculum: 30-31 credits
+Innovation, Society and Technology Primary Core: 12-13 credits
+Students who transfer into the iSchool as an IUT or add an iSchool major after their first year of study, are not required to take IST101.
+
+IST 101 - First-Year Forum
+IST 195 - Information Technologies
+IST 256 - Application Programming for Information Systems
+IST 344 - Information Reporting and Presentation
+IST 477 - Capstone in Innovation, Society & Technology (IST)
+Information Innovation Core: 6 credits
+Select two courses from the list below.
+
+IDS 301 - What’s the Big Idea?: Technology Innovation
+IST 341 - Human-Centered Design
+IST 421 - Information Visualization
+IST 429 - Technology and the Future of Work
+IST 486 - Social Media in the Organization
+Information Technology Core: 6 credits
+Select two courses from the list below.
+IST 233 - Introduction to Networks and Cloud Computing
+IST 263 - Introduction to Front-End Web Development
+IST 323 - Introduction to Information Security
+IST 346 - Information Technology Management and Administration
+IST 359 - Introduction to Database Management Systems
+IST 387 - Introduction to Applied Data Science
+Information in Society Core: 6 credits
+Select two courses from the list below.
+IST 305 - Globalization , Collaboration, Culture, Systems & Data
+IST 343 - Data in Society
+IST 382 - Cultural Competencies for Information Professionals
+IST 419 - Economics of Digital Transformation
+IST 426 - Information Justice & Community Engagement
+IST 443 - Critique of the Information Age
+IST 456 - Information Policies and Decision Making
+Concentrations and Electives: 15 credits
+Students must complete five additional iSchool courses to fulfill their IS&T elective requirement. Students are required to complete one iSchool concentration which typically consists of three courses.  The remaining two courses may be any IST 100-599 level courses or IDS courses
+Completing a concentration allows students to select course work that matches their professional interests and planned career paths.  Students may petition the Undergraduate Program Director to approve three courses to be considered a concentration in an area of interest that is not shown in the official list of concentrations. These three courses must provide depth in an area of study.
+Courses cannot be used to satisfy both a core requirement, a concentration, and an IST elective.
+Students select from one of the following concentrations below.  Please note each concentration has one or more required course.
+Data Analytics Concentration
+Required
+IST 359 - Introduction to Database Management Systems
+IST 387 - Introduction to Applied Data Science
+Concentration Electives: select one course from the list below
+IST 407 - Data Mining
+IST 414 - Data Driven Inquiry
+IST 418 - Big Data Analytics
+IST 421 - Information Visualization
+IST 462 - Scripting for Data Analysis
+Digital Retail Strategies Concentration
+Students who pursue the 18-credit Digital Retail Strategies concentration will be required to take three RMT courses and one additional IST elective, as RMT classes do not count towards the 15 credit IST elective requirement.
+Required
+IST 195 - Information Technologies
+RMT 301 - Retailing Fundamentals
+RMT 407 - Retail Buying and Planning
+RMT 457 - Electronic Retailing and Marketing
+Concentration Electives: select two courses from the list below.
+IST 263 - Introduction to Front-End Web Development
+IST 322 - Digital Strategy & Analytics for the Web
+IST 486 - Social Media in the Organization
+IST 523 - Graphic Design for the Web
+Information Security Management Concentration
+Required
+IST 323 - Introduction to Information Security
+Concentration Electives: select two courses from the list below.
+IST 336 - Leading Issues in Information Security
+IST 342 - Information Security Policy
+IST 402 - Digital Forensics
+IST 425 - Enterprise Risk Management
+IST 431 - Security in a Networked Environment
+IST 476 - Applied Information Security
+Innovation, Design, and Startups Concentration
+All three IDS courses below are required.
+
+IDS 301 - What’s the Big Idea?: Technology Innovation
+IDS 302 - Idea2Startup
+IDS 403 - iLaunchPad
+Network and Cloud Computing Concentration
+Required
+IST 233 - Introduction to Networks and Cloud Computing
+Concentration Electives: select two courses from the list below.
+IST 346 - Information Technology Management and Administration
+IST 408 - Blockchain Management
+IST 431 - Security in a Networked Environment
+IST 452 - Advanced Computer Networking
+Project Management Concentration
+Required
+IST 345 - Managing Information Systems Projects
+Concentration Electives: select two courses from the list below.
+IST 352 - Information Analysis of Organizational Systems
+IST 425 - Enterprise Risk Management
+IST 442 - Agile Project Management Methodologies
+IST 455 - Enterprise IT Consultation
+IST 456 - Information Policies and Decision Making
+Web Design and Management Concentration
+Required
+IST 263 - Introduction to Front-End Web Development
+Concentration Electives: select two courses from the list below.
+IST 322 - Digital Strategy & Analytics for the Web
+IST 341 - Human-Centered Design
+IST 349 - Human Computer Interaction
+IST 363 - Advanced Front End Web Design
+IST 486 - Social Media in the Organization
+IST 523 - Graphic Design for the Web
+University Wide Requirements
+The iSchool participates in students’ knowledge and skill development through the Shared Competencies, Syracuse University’s institutional learning goals that highlight the knowledge and skills students can expect to gain through their major courses, liberal arts requirements and co-curricular activities.
+All incoming and external transfer students are required to take FYS101, a 1-credit course.
+FYS 101 - First Year Seminar
+IDEA
+All incoming and transfer students are required to take a 3-credit IDEA course that can be selected from the approved IDEA Course Requirement list .
+IST courses appearing on the approved IDEA course requirement list may be taken to fulfill both the IDEA requirement and/or a core or concentration requirement.
+Skills Electives: 15-17 credits
+Programming Skills
+Students are required to complete the computer programming course listed below.  Petitions will not be accepted to substitute IST256.
+IST 256 - Application Programming for Information Systems
+Communication Skills: 9 credits
+Students are required to take 12 credits in communications skills, including IST 344, as well as one course from each of the three categories below:
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing OR
+WRT 109 - Studio 1: Practices of Academic Writing (Honors) 
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing OR
+WRT 209 - Studio 2: Critical Research and Writing (Honors) 
+
+WRT 303 - Advanced Writing Studio: Research and Writing OR
+WRT 307 - Advanced Writing Studio: Professional Writing 
+
+Quantitative Skills: 6-8 credits
+Students are required to attain minimum competence in mathematics by completing the quantitative skills requirement of the Liberal Art Core curriculum of the College of Arts and Sciences.
+All IS&T majors are required to attain minimum competence in mathematics. Students may satisfy this requirement by completing the quantitative skills requirement of the Liberal Arts Core curriculum of the College of Arts and Sciences.
+Arts & Sciences Divisional Requirements: 12 courses, minimum 36 credits
+Students are required to take three courses in each of the three divisions of the Arts and Sciences-Natural Sciences and Mathematics, Social Sciences, and Humanities. In addition, three courses in any of the divisions must be completed to fulfill this requirement.
+Students are required to complete a minimum of 60 credits of coursework in the College of Arts & Sciences. Courses from Communication Skills, Quantitative Skills and A&S Divisional Requirements will all count towards the A&S minimum credit requirement. Additional A&S courses will be required to reach the 60 credit minimum requirement.
+General Electives: 21-24 credits
+Students need 120 credits to graduate from Syracuse University.  If after meeting all program and University requirements, the student is still lacking to meet the 120 credits needed for graduation, students can take any undergraduate Syracuse University course to reach the graduation credits total.  Students can concentrate on a minor, a dual degree, a combined degree, an internship experience, or study abroad to reach the minimum of 120 credits required for graduation. 
+International Experience
+Students will be required to complete one international experience to graduate with their iSchool undergraduate degree.  iSchool Immersion courses that require domestic travel do not fulfull this requirement.  Students can fulfill their international requirement in one of the following ways
+Semester abroad
+University exchange
+Short term abroad program
+International Internship
+Coursework (6 credits from approved list)
+Approved international component - by petition
+

@@ -1,0 +1,98 @@
+Biomedical Engineering, BS
+Department Chair:
+Julie Hasenwinkel
+329F Link Hall
+315-443-1931; fax: 315-443-9175
+Faculty
+Jesse Q. Bond, Katie D. Cadwell, Ruth Chen, Viktor Cybulskis, Era Jain, Julie M. Hasenwinkel, James H. Henderson, Ian Hosein, Zhen Ma, Mary Beth Monroe, Shikha Nangia, Dacheng Ren, Ashok Sangani, Cindy Smith, Pranav Soman, Radhakrishna Sureshkumar, Theodore Walker, Yaoying Wu, Pun To Yung, Yi Zheng
+Adjunct/Research Faculty:
+Eric Finkelstein, Kent Ogden, David Quinn, Katherine Tsokas
+Affiliate Faculty:
+Samuel Herberg, Juntao Luo, Liviu Movileau, Davoud Mozhdehi, Alison Patteson, Rachel Steinhardt 
+Emeritus Faculty:
+Gustav Engbretson, John Heydweiller, George Martin, Philip Rice, Klaus Schroder, Robert L. Smith, Lawrence L. Tavlarides
+Undergraduate Biomedical Engineering Program Director:
+Pun To Yung
+361 Link Hall
+315-443-4848
+
+ptyung@syr.edu
+The mission of the Department of Biomedical and Chemical Engineering is to provide students with mentoring, curricular experience, and extracurricular opportunities consistent with their individual career objectives in order to
+prepare them to apply science, mathematics, and engineering knowledge to serve the needs of society;
+instill in them a deep sense of respect for others and a strong foundation in professional and social ethics; and
+develop in them the understanding that continued education will further their professional and leadership skills.
+Program Educational Objectives
+The objectives of the undergraduate biomedical engineering program are:
+Graduates will have mastered engineering and biological fundamentals and be able to apply critical thinking to solve problems at the interface of science or medicine and engineering.
+Graduates will have a broad education that develops their ability to make informed and ethical decisions and understand the engineer’s role in society;
+Graduates will be able to effectively communicate their work and ideas;
+Graduates will be prepared to be success in the biomedical industry and postgraduate education in engineering, science, or professional studies.
+The Biomedical Engineering curriculum at Syracuse provides a strong foundation in mathematics, chemistry, physics, engineering, and biology in preparation for engineering applications in medicine and biology such as biomedical instrument design, medical device design, orthopedic prosthesis design, or engineering support for healthcare services. Engineering design is an important part of the curriculum, introduced in the student’s first semester and culminating in the senior year with a capstone project. In consultation with a faculty advisor, students can specialize their curriculum to emphasize preparation for industry, research, or premedical studies. This curriculum shares several courses with the chemical engineering program. These courses provide our students with a strong background in the engineering sciences so they can explore emerging topics at the interface of the two fields. Students interested in research with the possibility of continued study in graduate school are encouraged to elect one or more independent study projects and a graduate-level course in an area of research interest.
+With the careful planning, a student can meet the entrance requirements established by the Association of American Medical Colleges.
+This program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
+Student Learning Outcomes
+Graduates from the program in biomedical engineering must achieve the following student outcomes:
+an ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics;
+an ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors;
+an ability to communicate effectively with a range of audiences;
+an ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts;
+an ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives;
+an ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions;
+an ability to acquire and apply new knowledge as needed, using appropriate learning strategies;
+an understanding of biology and physiology, and the capability to make measurements on living system and solve associated bioengineering problems.
+Biomedical Engineering Course Requirements
+First Year, Fall Semester (18)
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+ECS 101 - Introduction to Engineering and Computer Science
+MAT 295 - Calculus I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+Social Science/Humanities elective (3)
+First Year, Spring Semester (15)
+CHE 116 - General Chemistry Lecture II
+CHE 117 - General Chemistry Laboratory II
+ECS 104 - Engineering Computational Tools
+MAT 296 - Calculus II
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+Second Year, Fall Semester (18)
+BEN 201 - Biological Principles for Engineers
+BEN 231 - Bioengineering Fundamentals
+CHE 275 - Organic Chemistry I
+CHE 276 - Organic Chemistry I Laboratory
+MAT 397 - Calculus III
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+Second Year, Spring Semester (18)
+BEN 212 - Experimental Methods in Chemical Engineering and Bioengineering
+ECS 221 - Statics
+ELE 231 - Electrical Engineering Fundamentals
+MAT 485 - Differential Equations and Matrix Algebra for Engineers
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+Social Science/Humanities elective (3)
+Third Year, Fall Semester (16)
+BEN 333 - Fluid Transport
+ECS 326 - Engineering Materials, Properties, and Processing
+ELE 251 - Fundamentals of Linear Systems
+ELE 292 - Linear Systems Laboratory
+Social Science/Humanities elective (3)
+Third Year, Spring Semester (17)
+BEN 341 - Fundamentals of Heat and Mass Transfer
+BEN 364 - Quantitative Physiology
+BEN 375 - Biomedical Systems, Signals, & Control
+BEN 385 - Bioengineering Laboratory I
+BEN 568 - Biomaterials & Medical Devices
+Fourth Year, Fall Semester (16)
+BEN 565 - Biomechanics
+BEN 481 - Bioinstrumentation
+BEN 485 - Bioengineering Laboratory II
+BEN 486 - Bioengineering Capstone Design I
+Biological elective (3)
+Technical elective (3)
+Fourth Year, Spring Semester (15)
+BEN 487 - Bioengineering Capstone Design II
+Social Science/Humanities elective (6)
+Technical electives (6)
+Total: 131 credits
+

@@ -9,7 +9,7 @@ from langchain.document_loaders.parsers.txt import TextParser
 from langchain.document_loaders.text import TextLoader
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import LLMChainExtractor
-from langchain_community.document_loaders import Blob
+from langchain_community.document_loaders import Blob, JSONLoader
 from langchain.vectorstores.chroma import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.tools.retriever import create_retriever_tool
@@ -92,9 +92,6 @@ database = get_database()
 #get agent
 agent_exe = make_agent(database, chat)
 
-results = agent_exe.invoke({'input' : 'what classes do I have to take as a computer science student?'})
-
-print(results['output'])
 
 # compressor = LLMChainExtractor.from_llm(chat)
 # #retrieves data from our database
@@ -118,19 +115,23 @@ while True:
     #gets input from human and adds HumanMessage to messages
     human = input("Does Teddy have a Gyat: \n")
 
+    results = agent_exe.invoke({'input' : human})
+
+    print(results['output'])    
+
     #print(get_compressed_data(retriever, human))
-    messages.append(HumanMessage(human))
+    # messages.append(HumanMessage(human))
 
     #PART THAT USES DATABASE
     #passes in information retrieved from the vectorstore
     #messages.append(AIMessage(get_compressed_data(retriever, human)))
 
     #generates response and adds AIMessage to messages
-    response = chat.generate([messages]).generations.pop().pop().text
-    messages.append(AIMessage(response))
+    # response = chat.generate([messages]).generations.pop().pop().text
+    # messages.append(AIMessage(response))
 
     #prints response
-    print(response)
+    # print(response)
     
 
 

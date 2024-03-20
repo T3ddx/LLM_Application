@@ -1,0 +1,37 @@
+Information Management and Technology Minor
+Contact:
+Bruce Kingma, Professor of Entrepreneurship
+Program Director 
+(315) 443-2911
+iundergrad@syr.edu
+Website:
+https://ischool.syr.edu/academics/information-management-and-technology-minor/
+Overview:
+Where technology and business meet.
+Information and technology play an important role in how companies operate. Discover how collecting, organizing, and understanding information can drive business success. And learn to design information systems and manage technology solutions.
+The skills you will develop will make you a valuable asset to any organization. Best of all, it is open to all students outside of the iSchool, regardless of college or major.
+Student Learning Outcomes
+Manage people towards common goals using data, processes, information, and technologies.
+Identify business concepts including accounting, economics, finance, management, and marketing.
+Curriculum:
+I. Required Courses (9 credits)
+IST 195 - Information Technologies
+One course from each of the following areas:
+Information Technology (pick 1)
+IST 233 - Introduction to Networks and Cloud Computing
+IST 256 - Application Programming for Information Systems
+IST 263 - Introduction to Front-End Web Development
+IST 323 - Introduction to Information Security
+IST 359 - Introduction to Database Management Systems
+IST 387 - Introduction to Applied Data Science
+Information Management (pick 1)
+IST 305 - Globalization , Collaboration, Culture, Systems & Data
+IST 335 - Introduction to Information-Based Organizations
+IST 341 - Human-Centered Design
+IST 345 - Managing Information Systems Projects
+IST 352 - Information Analysis of Organizational Systems
+IST 419 - Economics of Digital Transformation
+IST 429 - Technology and the Future of Work
+II. Electives (9 credits)
+Select three other courses from the iSchool, preferably from one or more of the information management and technology concentrations.  A minimum of 12 credits of coursework MUST be at the 300+ level.
+

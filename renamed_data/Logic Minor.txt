@@ -1,0 +1,38 @@
+Logic Minor
+Michael Rieppel
+523 Hall of Languages
+315-443-2519
+Faculty
+Steven Diaz, Janice Dowell, Kevan Edwards, Jaklin Kornfilt, Jeff Meyer, Susan B. Older, Michael Rieppel
+Student Learning Outcomes
+1. Explain core concepts and results in logic
+2. Produce proofs in a formal proof system
+3. Produce clearly written “informal” proofs, including proofs by induction
+4. Explain how logic relates to topics studied in philosophy,  linguistics, computer science, and mathematics
+Requirements
+The Logic Minor requires 18 credits, selected in consultation with the program advisor. At least 12 credits must be in courses numbered above 299. Students can select from among the following courses (though suitable courses in special topics may be substituted, subject to the program advisor’s approval).
+Introduction to Logic
+The following course is required:
+PHI 251 - Logic
+Techniques of Logical Investigation
+At least one of the following courses is required (note that credit cannot be given for both MAT 375 and CIS 375):
+CIS 473 - Automata and Computability
+CIS 375 - Introduction to Discrete Mathematics
+PHI 451 - Logic and Language
+MAT 375 - Introduction to Abstract Mathematics
+PHI 551 - Mathematical Logic
+PHI 552 - Modal Logic
+Other Courses (choose two or three)
+CIS 352 - Programming Language: Theory & Practice
+CIS 468 - Natural Language Processing
+CIS 487 - Access Control, Security and Trust
+LIN 411 - Semantics of Human Languages
+LIN 312 - Meaning and Communication
+MAT 593 - History of Mathematics
+LIN 441 - Syntactic Analysis
+PHI 373 - Introduction to the Philosophy of Science
+PHI 378 - Minds and Machines
+PHI 387 - Epistemology
+PHI 555 - Philosophy of Mathematics
+PHI 565 - Philosophy of Language
+

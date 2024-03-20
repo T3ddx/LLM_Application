@@ -1,0 +1,44 @@
+Statistics, BA
+Contact:
+Department Chair: Graham Leuschke, 215 Carnegie Building, gjleusch@syr.edu, 315-443-1478
+Associate Chair for Undergraduate Studies: Leonid Kovalev, 311C Carnegie Building, lvkovale@syr.edu, 315-443-1487
+  Advisor 
+Hyune-Ju Kim, hjkim@syr.edu
+Faculty
+Uday Banerjee, Pinyuen Chen, Dan Coman, J.Theodore Cox, Steven Diaz, Nicole M.L. Fonger, Jack E. Graver, Duane Graysay, Tadeusz Iwaniec, Lee Kennard, Hyune-Ju Kim, Mark Kleiner, Leonid Kovalev, Loredana Lanzani, Graham J. Leuschke, Wei Li, Jianxuan Liu, Adam Lutoborski, Joanna O. Masingila, Terry R. McConnell, Claudia Miller, Jani Onninen, Declan Quinn, Minghao Rostami, Lixin Shen, Gregory Verchota, Andrew Vogel, Stephan Wehrli, William Wylie, Yuan Yuan, Dan Zacharia, Yiming Zhao 
+B.A. in Statistics is recommended for students who intend to pursue a career in a field that requires quantitative training with an emphasis in statistics. The B.A. program provides students with fundamental knowledge in statistical theory and methods, and also practical skills for data analysis. The flexibility of the B.A. program, which requires fewer credits in mathematics than the B.S. program, makes it an ideal option for a dual/double major, particularly for those whose majors are in social sciences, humanities, or management.
+For all Arts and Sciences|Maxwell students, successful completion of a bachelor’s degree in this major requires a minimum of 120 credits, 96 of which must be Arts and Sciences|Maxwell credits, completion of the Liberal Arts Core requirements, and the requirements for this major that are listed below.
+Dual Enrollments:
+Students dually enrolled in Newhouse* and Arts and Sciences|Maxwell will complete a minimum of 122 credits, with at least 90 credits in Arts and Sciences|Maxwell coursework and an Arts and Sciences|Maxwell major.
+*Students dually enrolled in the College of Arts and Sciences|Maxwell as first year students must complete the Liberal Arts Core. Students who transfer to the dual program after their first year as singly enrolled students in the Newhouse School will satisfy general requirements for the dual degree program by completing the Newhouse Core Requirements.
+Student Learning Outcomes
+1. Demonstrate facility with the basic mathematics techniques used in statistical theory and applications.
+2. Effectively communicate statistical ideas.
+3. Manipulate and summarize data efficiently and effectively.
+4. Formulate statistical models and perform statistical inferences using fundamental concepts and principles of statistics.
+5. Conduct data analysis using various statistical methods and summarize findings.
+Preliminary Requirements (25 credits)
+As a preliminary requirement for the statistics major, students complete 25 credits in the following classes with no grade below a C: MAT 221, MAT 222, MAT 295, MAT 296, MAT 331, MAT 397, and MAT 422. These courses are prerequisites for most upper-division statistics courses. The following sequence is recommended: MAT 221 and MAT 295 in the first semester; MAT 222 and MAT 296 in the second semester; MAT 331 and 397 in the third semester; and MAT 422 when appropriate. However, students with knowledge of trigonometry and a year of high school calculus may be able to enter the sequence at MAT 296 or even MAT 397; students with less preparation may be advised to complete MAT 194 before beginning the calculus sequence. Students considering becoming Statistics majors are strongly encouraged to talk to a major advisor as soon as possible.
+MAT 221 - Elementary Probability and Statistics I
+MAT 222 - Elementary Probability and Statistics II
+MAT 295 - Calculus I
+MAT 296 - Calculus II
+MAT 331 - First Course in Linear Algebra
+MAT 397 - Calculus III
+MAT 422 - Statistical Computing
+Upper-Division Courses (9 credits)
+In addition to the preliminary requirement described above, students are required to complete the following coursework with an average of at least 2.0.
+Three required courses:
+MAT 521 - Introduction to Probability
+MAT 524 - Regression Analysis
+MAT 525 - Mathematical Statistics
+Three courses chosen from the following list:
+MAT 495 - Fundamentals of Data Science
+MAT 526 - Introduction to Stochastic Processes
+MAT 527 - Analysis of Variance and Experimental Design
+MAT 528 - Probability Models for Actuarial Science
+MAT 529 - Introduction to Bayesian Statistics
+MAT 532 - Applied Linear Algebra
+MAT 581 - Numerical Methods with Programming
+MAT 598 - Statistics Seminar
+

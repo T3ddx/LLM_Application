@@ -1,0 +1,23 @@
+Computer Science Minor
+Minor Coordinator
+Susan Older
+
+315-443-2652
+
+eecsugradadmit@syr.edu
+Minor Requirements
+The minor in computer science requires the completion of at least 18 credits in CIS courses with an overall grade point average of at least 2.5, and with no individual course grade below C-.
+These 18 hours must include:
+CIS 151 - Fundamentals of Computing and Programming
+CIS 252 - Elements of Computer Science
+CIS 375 - Introduction to Discrete Mathematics
+CIS 351 - Data Structures
+At least one course chosen from:
+CIS 352 - Programming Language: Theory & Practice
+CIS 473 - Automata and Computability
+CIS 477 - Introduction to Analysis of Algorithms
+One additional 3-credit CIS or CSE course at the 300-level or higher
+Additional Information
+CIS 321 may not be used towards the computer science minor.
+Students who take CPS 196 and earn a B- or higher may petition to have it replace CIS 151 in the minor.
+

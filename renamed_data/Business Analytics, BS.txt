@@ -1,0 +1,19 @@
+Business Analytics, BS
+Business Analytics is the process of descriptive, predictive, and prescriptive transformation of data to provide insights into making better business decisions. Students will complete core courses and electives that emphasize the applications of analytics to business decision making. The curriculum includes foundation knowledge in business statistics and analytics and further provides students with the opportunity to acquire functional area specialization in accounting analytics, financial analytics, marketing analytics and supply chain analytics. Students also receive coursework in linear models, time series, customer relationship management, data base management, data mining, data visualization, and optimization.
+Student Learning Outcomes
+In addition to the comprehensive learning outcomes listed in the Whitman School’s Undergraduate Education description, students in this major are expected to achieve the following additional learning outcomes:
+Demonstrate an understanding of data gathering, preparation, communication, and management to meet specific business objectives and enhance the effectiveness of business decision-making;
+Acquire the most recent technologies, applications and practices needed in the continuously emerging field of business analytics;
+ Demonstrate in-depth understanding of the applications of (1) descriptive; (2) predictive; and (3) prescriptive data analytic methods;
+Apply business data analytic approaches to functional areas
+Major Required Courses (2 classes)
+BUA 451 - Advanced Business Analytics
+BUA 455 - Data Management for Business
+Business Analytics Electives (Choose 2 of 3)
+BUA 454 - Business Network Models
+BUA 466 - Data Mining for Business
+BUA 488 - Predictive Learning for Business
+Functional Area Electives (Choose 1)
+FIN 454 - Financial Analytics
+MAR 453 - Marketing Analytics
+

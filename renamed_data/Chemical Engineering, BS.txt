@@ -1,0 +1,96 @@
+Chemical Engineering, BS
+Department Chair:
+Julie Hasenwinkel
+329F Link Hall
+315-443-1931; fax: 315-443-9175
+Faculty
+Jesse Q. Bond, Katie D. Cadwell, Ruth Chen, Viktor Cybulskis, Julie M. Hasenwinkel, James H. Henderson, Ian Hosein, Zhen Ma, Mary Beth Monroe, Shikha Nangia, Dacheng Ren, Ashok Sangani, Cindy Smith, Pranav Soman, Radhakrishna Sureshkumar, Theodore Walker, Yaoying Wu, Pun To Yung, Yi Zheng
+Adjunct/Research Faculty:
+Eric Finkelstein, Kent Ogden, David Quinn, Katherine Tsokas 
+Affiliate Faculty:
+Samuel Herberg, Juntao Luo, Liviu Movileanu, Davoud Mozhdehi, Alison Patteson, Rachel Steinhardt 
+Emeritus Faculty:
+Gustav Engbretson, John Heydweiller, George Martin, Philip Rice, Robert L. Smith, Lawrence L. Tavlarides
+Undergraduate Chemical Engineering Program Director:
+Katie D. Cadwell
+341 Link Hall
+315-443-4756
+kdcadwel@syr.edu
+The mission of the Department of Biomedical and Chemical Engineering is to provide our students with mentoring, curricular experience and extracurricular opportunities consistent with their individual career objectives in order to:
+Prepare them to apply science, mathematics and engineering knowledge to serve the needs of society;
+Instill in them a deep sense of respect for others and a strong foundation in professional and social ethics;
+Develop in them the understanding that continued education will further their professional and leadership skills.
+The educational objectives of the program seek to ensure that:
+Graduates of the program will have mastered the chemical engineering fundamentals necessary to serve as practicing engineers and will be prepared for further studies in engineering, science, or other professions. These fundamentals include an understanding of basic engineering concepts, the collection of information from experimentation and from the scientific and technical literature, and the prediction of system behavior through the development and application of mathematical models;
+Graduates will be able to apply critical thinking, problem solving, and teamwork skills to the design of chemical engineering processes and the solution of scientific and technical problems;
+Graduates will be able to effectively communicate their work and ideas through written, oral, and visual formats and they will understand the impacts of their actions and responsibilities to society.
+Chemical engineering has a rich past; chemical engineers are the large scale manufacture of numerous products including chemicals, fibers, foods, fuels, pharmaceuticals, plastics, pulp and paper, and rubber. Because chemical engineering is the most versatile of the engineering disciplines, chemical engineers in the future will contribute to diverse new and emerging technologies. They will seek new ways to process our energy and natural resources; they will play key roles in the areas of environmental cleanup and protection, management of hazardous wastes, and process and product safety. They will be involved in new technologies such as biotechnology and biomedicine, and in the development and production of new materials such as polymers, ceramics, and advanced composites.
+The chemical engineering curriculum prepares students to apply the fundamentals of chemistry, physics, and engineering to problems related to the efficient and safe production of chemical and related products. The program focuses on developing a solid background in the principles of chemical engineering and their applications to the challenges facing industry and society. If a student wishes to specialize in biochemical, environmental, or polymer materials engineering, he or she can select appropriate science and engineering courses to supplement the general curriculum. Engineering design concepts are integrated throughout all four years of the chemical engineering program.
+Beginning with ECS 101 in the fall of the first year, students are introduced to the engineering method for problem solving, and concepts of engineering design. In this way students see how mathematics, basic sciences, and engineering science provide the necessary tools for design and how to go about the design process.
+During the sophomore, junior, and senior years, problems of increasing complexity and open-endedness are presented to students in the chemical engineering courses, continually challenging their technical expertise, creativity, and knowledge.
+Finally, in their senior year courses, students are required to complete major design projects in their courses and laboratory. These projects are open-ended and designed to build upon the students’ understanding and mastery of the fundamentals of mathematics, sciences, and engineering topics. They also consider broader social issues in addition to technical issues such as environmental impact and safety.
+Many students take advantage of the low student/faculty ratio by participating in research or independent study projects. There are part-time, summer, co-op, and internship opportunities available for students seeking work experience. International study opportunities are also available.
+This program is accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org
+Student Learning Outcomes
+An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+An ability to communicate effectively with a range of audiences
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies
+An ability to recognize and address chemical process safety needs in contemporary chemical engineering practice
+Chemical Engineering Course Requirements
+First Year, Fall Semester (18)
+ECS 101 - Introduction to Engineering and Computer Science
+CHE 106 - General Chemistry Lecture I
+CHE 107 - General Chemistry Laboratory I
+MAT 295 - Calculus I
+WRT 105 - WRT 105 - Studio 1: Practices of Academic Writing
+FYS 101 - First Year Seminar
+Social Science/Humanities elective (3)
+First Year, Spring Semester (15)
+ECS 104 - Engineering Computational Tools
+CHE 116 - General Chemistry Lecture II
+CHE 117 - General Chemistry Laboratory II
+MAT 296 - Calculus II
+PHY 211 - General Physics I
+PHY 221 - General Physics Laboratory I
+Second Year, Fall Semester (16)
+CEN 231 - Mass and Energy Balances
+CHE 275 - Organic Chemistry I
+CHE 276 - Organic Chemistry I Laboratory
+MAT 397 - Calculus III
+PHY 212 - General Physics II
+PHY 222 - General Physics Laboratory II
+Second Year, Spring Semester (18)
+CEN 212 - Experimental Methods in Chemical Engineering and Bioengineering
+CEN 252 - Chemical Engineering Thermodynamics I
+MAT 485 - Differential Equations and Matrix Algebra for Engineers
+WRT 205 - WRT 205 - Studio 2: Critical Research and Writing
+Social Science/Humanities elective (6)
+Third Year, Fall Semester (17)
+ECS 326 - Engineering Materials, Properties, and Processing
+CEN 333 - Fluid Transport
+CEN 353 - Chemical Engineering Thermodynamics II
+CHE 346 - Physical Chemistry I
+CHE 347 - Physical-Analytical Chem Lab
+WRT 307 - Advanced Writing Studio: Professional Writing
+Third Year, Spring Semester (15)
+CEN 311 - Chemical Engineering Laboratory I
+CEN 341 - Fundamentals of Heat and Mass Transfer
+CEN 575 - Process Control
+• Restricted Elective (3) - choose one from CHE 356 - Physical Chemistry II, CEN 451 - Molecular and Statistical Thermodynamics, CEN 421 - Biochemical Engineering/BEN 421 - Biochemical Engineering 
+• Technical Elective (3) At least 1 technical elective must be in CEN
+ Fourth Year, Fall Semester (17)
+CEN 412 - Chemical Engineering Laboratory II
+CEN 442 - Heat and Mass Transfer Operations
+CEN 587 - Chemical Reaction Engineering
+Technical elective (3)
+Social Science/Humanities electives (6)
+Fourth Year, Spring Semester (13)
+CEN 474 - Process Design
+Social Science/Humanities elective (3)
+Technical electives (6)
+Total: 129 credits
+

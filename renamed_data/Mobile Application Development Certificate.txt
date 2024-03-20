@@ -1,0 +1,28 @@
+Mobile Application Development Certificate
+Contact
+Associate Dean:
+Ryan O. Williams, Associate Dean of Academic Affairs, Professor of Practice
+College of Professional Studies, rywillia@syr.edu
+Program Director:
+Steve Wallace, Professor of Practice
+College of Professional Studies, swalla02@syr.edu
+ Program Questions, contact the College of Professional Studies at 315-443-9378, or email parttime@syr.edu
+ Faculty List 
+Description
+Mobile application development is a rapidly growing field. Technologies such as mobile gaming, machine learning, biometrics, and more rely on mobile application developers. This certificate will prepare you to develop an application for both Android or iOS operating systems. Students will go through the development process and build their own applications from the ground up. There will also be an opportunity to use the Android Software Development Kit and Apple’s XCode for creating mobile applications that can be brought to the mobile marketplace. Programming experience in object-oriented programming languages like C, Java, or C# is not required but can be beneficial.
+Admission
+30 college credits.
+Student Learning Outcomes
+Design a system, component, or process to meet desired outcomes within realistic constraints.
+Exhibit the ability to identify, formulate and solve problems.
+Develop applications using the official iPhone and Android development environments
+Requirements
+18 Credits
+SCP 220 - Basic Principles of Computer Programming
+SCP 315 - Introduction to Mobile Applications
+SCP 350 - Introduction to HTML/CSS
+SCP 355 - Introduction to Javascript/jQuery
+SCP 444 - Programming for iOS
+SCP 450 - Programming for Android
+The certificate is administered by the College of Professional Studies. Each student should consult with their Academic Advisor to ensure certificate completion.
+
