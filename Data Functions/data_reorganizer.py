@@ -11,7 +11,7 @@ for num in range(365):
 
     major_name = arr[-1]
 
-    total_string+=f"{major_name}\n"
+    total_string+=f"{major_name}.txt\n"
 
     new_file = open(f'../renamed_data/{major_name}.txt', 'a')
 
