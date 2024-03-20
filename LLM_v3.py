@@ -20,25 +20,19 @@ import os
 
 #returns list of all our documents
 #loads them before adding them to the array
-def collect_docs():
-    #loads right from the file
-    loader = TextLoader(f'major_data.txt')
-    docs = loader.load()
 
-    splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=50)
 
-    return splitter.split_documents(docs)
 
-def get_database():
+def get_database(document):
     #gets documents
-    documents = collect_docs()
+    data = TextLoader(document)
 
     #creates embeddings
     embedding_function = OpenAIEmbeddings()
 
     #makes database from the documents and embeddings
     #creates a directory for the database then "publishes" it
-    database = Chroma.from_documents(documents, embedding_function, persist_directory='./chroma_db')
+    database = Chroma.from_documents(data, embedding_function, persist_directory='./chroma_db')
     database.persist()
 
     return database
@@ -87,51 +81,49 @@ chat = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0)
 
 
 #MAKES DATABASE, COMPRESSOR, AND RETRIEVER
-database = get_database()
+database = get_database("major_data.txt")
 
 #get agent
 agent_exe = make_agent(database, chat)
 
+results = agent_exe.invoke({'input' : 'who do i contact for questions for computer science'})
 
-# compressor = LLMChainExtractor.from_llm(chat)
-# #retrieves data from our database
-# #uses this retreiver b/c it is smarter
-# #only brings back the most important data
-# #sends in compressor and database
-# retriever = ContextualCompressionRetriever(
-#     base_compressor=compressor,
-#     base_retriever=database.as_retriever())
+print(results['output'])
 
-# parse = {
-#     "application/pdf": PDFMinerParser(),
-#     "text/plain": TextParser(),
-# }
+
 
 #holds message history
 messages = []
+# string of all major names
+tempstrallname = ""
 
 #loops forever for conversation
 while True:
+   
+    
     #gets input from human and adds HumanMessage to messages
     human = input("Does Teddy have a Gyat: \n")
+    messages.append(HumanMessage(human))
+    response = chat.generate([messages]).generations.pop().pop().text
+    #messages.append(HumanMessage(tempstrallname))
 
-    results = agent_exe.invoke({'input' : human})
 
-    print(results['output'])    
+    #trys = agent_exe.invoke({'input' :  human})
+    #print(trys['output'])
 
     #print(get_compressed_data(retriever, human))
-    # messages.append(HumanMessage(human))
+    #messages.append(HumanMessage(human))
 
     #PART THAT USES DATABASE
     #passes in information retrieved from the vectorstore
     #messages.append(AIMessage(get_compressed_data(retriever, human)))
 
     #generates response and adds AIMessage to messages
-    # response = chat.generate([messages]).generations.pop().pop().text
-    # messages.append(AIMessage(response))
+    response = chat.generate([messages]).generations.pop().pop().text
+    #messages.append(AIMessage(response))
 
     #prints response
-    # print(response)
+    #print(response)
     
 
 
