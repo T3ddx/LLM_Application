@@ -1,7 +1,7 @@
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 import constants
 from langchain.memory import ChatMessageHistory
-from langchain_core.messages import AIMessage, HumanMessage
+from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.document_loaders.parsers import BS4HTMLParser, PDFMinerParser
 from langchain.document_loaders.parsers.generic import MimeTypeBasedParser
@@ -101,36 +101,45 @@ while True:
     #gets input from human and adds HumanMessage to messages
     human = input("Does Teddy have a Gyat: \n")
 
-    prompt = ChatPromptTemplate.from_messages(
-        [
-            ('system', 'you are returning the files that will help me figure out my question.'),
-            ('system', 'This is the list of files you will choose from: ' + major_list),
-            ('system', 'Respond with the most specific files only and as few as possible'),
-            ('system', 'you will return only the files with no added characters'),
-            ('human', '{text}')
-        ]
-    )
+    prompts.append(SystemMessage('you are returning the files that will help me figure out my question.'))
+    prompts.append(SystemMessage('This is the list of files you will choose from: ' + major_list))
+    prompts.append(SystemMessage('Respond with the most specific files only and as few as possible'))
+    prompts.append(SystemMessage('you will return only the files with no added characters'))
+    prompts.append('{text}')
+
+
+    # prompt = ChatPromptTemplate.from_messages(
+    #     [
+    #         ('system', 'you are returning the files that will help me figure out my question.'),
+    #         ('system', 'This is the list of files you will choose from: ' + major_list),
+    #         ('system', 'Respond with the most specific files only and as few as possible'),
+    #         ('system', 'you will return only the files with no added characters'),
+    #         ('human', '{text}')
+    #     ]
+    # )
 
 
     #parser = TextParser()
 
-    chain = prompt | chat# | parser
+    chain = LLMChain(llm=chat, prompt=prompts)# | parser
 
     file_response = chain.invoke({'text':human})
 
     file_list = file_response.content.split('\n')
 
-    data_list = []
+    prompts = []
 
     for file in file_list:
-        data_list.append(('system', 'Here is some data that you will be pulling from: ' + open('renamed_data/' + file,'r').read()))
+        prompts.append(SystemMessage('Here is some data that you will be pulling from: ' + open('renamed_data/' + file,'r').read()))
 
-    prompt = ChatPromptTemplate.from_messages(
-        data_list + [('human', '{text}')]
-    )
+    prompts.append('{text}')
 
-    new_chain = prompt | chat
+    # prompt = ChatPromptTemplate.from_messages(
+    #     data_list + [('human', '{text}')]
+    # )
 
-    fin_resp = new_chain.invoke({'text' : human})
+    chain = LLMChain(llm=chat, prompt=prompts)
+
+    fin_resp = chain.run(human)
 
     print(fin_resp.content)
