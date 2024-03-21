@@ -96,33 +96,44 @@ major_list = open('major_names.txt', 'r').read()
 
 #loops forever for conversation
 while True:
-   
-    
     #gets input from human and adds HumanMessage to messages
     human = input("Does Teddy have a Gyat: \n")
+
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ('system', 'you are returning the files that will help me figure out my question. You want to return as little files as possible.'),
+            ('human', 'This is the list of files you will choose from: ' + major_list),
+            ('human', '{text}')
+        ]
+    )
+
+    #parser = TextParser()
+
+    chain = prompt | chat# | parser
+
+    file_response = chain.invoke({'text':human})
     
-    messages.append(HumanMessage('here is a list of files:\n' + major_list))
-    messages.append(HumanMessage(human))
-    messages.append(HumanMessage("What one file from my list would help me? Return the file name is quotes."))
-    file_response = chat.generate([messages]).generations.pop().pop().text
+    # messages.append(HumanMessage('here is a list of files:\n' + major_list))
+    # messages.append(HumanMessage(human))
+    # messages.append(HumanMessage("What file/files from my list would help me? Always return as little files as possible"))
+    # file_response = chat.generate([messages]).generations.pop().pop().text
 
-    print(file_response)
+    print(file_response.content)
 
 
-    index = file_response.index('"')
-    last_index = file_response[index+1:].index('"')
-    file_name = file_response[index+1:index+last_index+1]
+    # index = file_response.index('"')
+    # last_index = file_response[index+1:].index('.')
+    # file_name = file_response[index+1:index+last_index+1] + ".txt"
 
-    print(file_name)
+    # messages = []
 
-    database = get_database(file_response)
-    agent_exe = make_agent(database, chat)
+    # major_data = open(f"renamed_data/{file_name}", "r").read()
+    # messages.append(HumanMessage("here is some data:\n" + major_data))
+    # #messages.append(human)
+    # messages.append(HumanMessage("Answer this question based the data i gave you: " + human))
+    # final_rep = chat.generate([messages]).generations.pop().pop().text
 
-    results = agent_exe.invoke({'input' : human})
-
-    print(results['output'])
-
-    messages = []
+    # print(final_rep)
     #messages.append(HumanMessage(tempstrallname))
 
 
