@@ -7,6 +7,7 @@ from langchain.document_loaders.parsers import BS4HTMLParser, PDFMinerParser
 from langchain.document_loaders.parsers.generic import MimeTypeBasedParser
 from langchain.document_loaders.parsers.txt import TextParser
 from langchain.document_loaders.text import TextLoader
+from langchain.chains import LLMChain
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import LLMChainExtractor
 from langchain_community.document_loaders import Blob, JSONLoader
@@ -94,6 +95,7 @@ messages = []
 # string of all major names
 major_list = open('major_names.txt', 'r').read()
 
+prompts = []
 #loops forever for conversation
 while True:
     #gets input from human and adds HumanMessage to messages
@@ -109,6 +111,7 @@ while True:
         ]
     )
 
+
     #parser = TextParser()
 
     chain = prompt | chat# | parser
@@ -122,11 +125,11 @@ while True:
     for file in file_list:
         data_list.append(('system', 'Here is some data that you will be pulling from: ' + open('renamed_data/' + file,'r').read()))
 
-    new_prompt = ChatPromptTemplate.from_messages(
+    prompt = ChatPromptTemplate.from_messages(
         data_list + [('human', '{text}')]
     )
 
-    new_chain = new_prompt | chat
+    new_chain = prompt | chat
 
     fin_resp = new_chain.invoke({'text' : human})
 
