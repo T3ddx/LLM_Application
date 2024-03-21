@@ -78,14 +78,14 @@ chat = ChatOpenAI(model="gpt-3.5-turbo-1106", temperature=0)
 
 
 #MAKES DATABASE, COMPRESSOR, AND RETRIEVER
-# database = get_database("major_data.txt")
+#database = get_database("major_data.txt")
 
-# #get agent
-# agent_exe = make_agent(database, chat)
+#get agent
+#agent_exe = make_agent(database, chat)
 
-# results = agent_exe.invoke({'input' : 'who do i contact for questions for computer science'})
+#results = agent_exe.invoke({'input' : 'who do i contact for questions for computer science'})
 
-# print(results['output'])
+#print(results['output'])
 
 
 
@@ -111,10 +111,16 @@ while True:
 
     index = file_response.index('"')
     last_index = file_response[index+1:].index('"')
-    print(index, last_index)
     file_name = file_response[index+1:index+last_index+1]
 
     print(file_name)
+
+    database = get_database(file_response)
+    agent_exe = make_agent(database, chat)
+
+    results = agent_exe.invoke({'input' : human})
+
+    print(results['output'])
 
     messages = []
     #messages.append(HumanMessage(tempstrallname))
