@@ -18,9 +18,6 @@ from langchain.agents import AgentExecutor, create_openai_tools_agent
 
 import os
 
-#returns list of all our documents
-#loads them before adding them to the array
-
 
 
 def get_database(document):
